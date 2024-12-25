@@ -1,6 +1,7 @@
 import { writeFile, readFile } from "node:fs";
 import { Dictionary } from "./Dictionary.ts";
 import { stringify } from "jsr:@std/csv";
+import { printTime } from "./Util.ts";
 
 export { SaveToCSV, LoadFromCSV };
 
@@ -12,7 +13,7 @@ function SaveToCSV(dictionary: Dictionary, path: string) {
     if (err) {
       throw err;
     }
-    console.log("The file was saved!");
+    console.log(`${printTime()} File saved !`);
   });
 }
 
