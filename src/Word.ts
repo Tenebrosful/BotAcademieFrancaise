@@ -45,4 +45,5 @@ function idToIdStr(id: number): string {
   return id.toString().padStart(4, "0");
 }
 
-export { Word, WordCSV, idToIdStr };
+export { Word, idToIdStr };
+export type { WordCSV };
