@@ -1,4 +1,7 @@
-class Word {
+import { HTMLElement } from "npm:node-html-parser";
+import { findElement, property } from "./HtmlHelper.ts";
+
+class Word implements Readonly<Record<string, unknown>> {
 
   id: number;
   id_str: string;
@@ -17,33 +20,24 @@ class Word {
     this.definition = definition;
     this.added_at = added_at;
   }
+  readonly [x: string]: unknown;
 
-  ToCSV(): WordCSV {
-    return {
-      id: this.id,
-      id_str: this.id_str,
-      word: this.word || "",
-      type: this.type || "",
-      etymology: this.etymology || "",
-      definition: this.definition || "",
-      added_at: this.added_at?.toISOString() || "",
-    };
+  static FromHTML(html: HTMLElement, id: number): Word {
+    const word = new Word(id, idToIdStr(id));
+    word.word = findElement(html, property.word);
+    word.type = findElement(html, property.type);
+    word.etymology = findElement(html, property.etymology);
+    word.definition = findElement(html, property.definition);
+    return word;
+  }
+
+  toString(): string {
+    return `${this.id_str} - ${this.word} (${this.type}) : ${this.definition}`;
   }
 }
-
-type WordCSV = {
-  id: number;
-  id_str: string;
-  word: string;
-  type: string;
-  definition: string;
-  etymology: string;
-  added_at: string;
-};
 
 function idToIdStr(id: number): string {
   return id.toString().padStart(4, "0");
 }
 
 export { Word, idToIdStr };
-export type { WordCSV };

@@ -1,8 +1,15 @@
-import { Dictionary } from "./src/Dictionary.ts";
-import { SaveToCSV } from "./src/Save.ts";
+import { TimerBasedCronScheduler as scheduler } from "jsr:@p4sca1/cron-schedule/schedulers/timer-based";
+import { parseCronExpression } from "jsr:@p4sca1/cron-schedule";
+import { RoutineNewWord } from "./src/Routine.ts";
 
-const dictionary = new Dictionary();
-await dictionary.fillDictionary();
-console.log(dictionary.words);
+const cron = parseCronExpression("* * 8,12,20 * * *");
 
-SaveToCSV(dictionary, "./output/dictionary.csv");
+console.log("Starting !");
+
+scheduler.setInterval(cron, async () => {
+  const newWords = await RoutineNewWord();
+
+  newWords.forEach((word) => {
+    console.log(`New word: ${word}`);
+  });
+});

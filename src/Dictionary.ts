@@ -1,6 +1,6 @@
-import { parse } from "npm:node-html-parser";
-import { idToIdStr, Word, WordCSV } from "./Word.ts";
-import { findElement, property } from "./HtmlHelper.ts";
+import { parse as parseHTML } from "npm:node-html-parser";
+import { parse as parseCSV } from "jsr:@std/csv";
+import { idToIdStr, Word } from "./Word.ts";
 
 const BASE_URL = "https://www.dictionnaire-academie.fr/article/";
 const PREFIX_INTERCALAIRE = "A9_";
@@ -15,13 +15,8 @@ class Dictionary {
 
       switch (response.status) {
         case 200:
-          response.text().then(async text => {
-            const html = parse(text);
-            const word = findElement(html, property.word);
-            const type = findElement(html, property.type);
-            const etymology = findElement(html, property.etymology);
-            const definition = findElement(html, property.definition);
-            this.words.set(i, new Word(i, idToIdStr(i), word, type, etymology, definition));
+          response.text().then(text => {
+            this.words.set(i, Word.FromHTML(parseHTML(text), i));
           });
           break;
         case 404:
@@ -39,12 +34,56 @@ class Dictionary {
     }
   }
 
-  getWordsArray(): Word[] {
-    return [...this.words.values()];
+  fillDictionaryFromCSV(csv: string) {
+    const data = parseCSV(csv, { skipFirstRow: true });
+    data.forEach((word) => {
+      this.words.set(
+        parseInt(word.id),
+        new Word(
+          parseInt(word.id),
+          word.id_str,
+          word.word,
+          word.type,
+          word.etymology,
+          word.definition,
+          word.added_at != "" ? new Date(word.added_at) : undefined
+        )
+      );
+    });
   }
 
-  getWordsArrayToCSV(): WordCSV[] {
-    return this.getWordsArray().map(word => word.ToCSV());
+  fetchNextWord(): Promise<Response> {
+    const nextId = this.words.size + 1;
+    return fetchWord(nextId);
+  }
+
+  tryAddNextWord(): Promise<boolean> {
+    const nextId = this.words.size + 1;
+    console.info(`Tentative d'ajout du mot ${nextId}`);
+    return new Promise((resolve, reject) => {
+      this.fetchNextWord().then(response => {
+        switch (response.status) {
+          case 200:
+            response.text().then(text => {
+              const newWord = Word.FromHTML(parseHTML(text), nextId);
+              newWord.added_at = new Date();
+              this.words.set(nextId, newWord);
+              resolve(true);
+            });
+            break;
+          case 404:
+            console.error(`Mot introuvable pour l'id ${nextId}`);
+            resolve(false);
+            break;
+          default:
+            console.error("Error", response.status);
+            resolve(false);
+            break;
+        }
+      }).catch((error) => {
+        reject(error);
+      });
+    });
   }
 }
 
