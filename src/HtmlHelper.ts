@@ -1,11 +1,11 @@
-export { findElement, property }
+export { findElement, property };
 
 import { HTMLElement } from "npm:node-html-parser";
 
 function findElement(html: HTMLElement, prorieteAChercher: property) {
   switch (prorieteAChercher) {
     case property.word:
-      return html.querySelector(".s_Entree")?.childNodes.find(node => node.nodeType === 3)?.text.trim();
+      return html.querySelector(".s_Entree")?.childNodes.find((node) => node.nodeType === 3)?.text.trim();
     case property.type:
       return (html.querySelector(".s_cat > span > span") || html.querySelector(".s_cat > span"))?.text.trim();
     case property.etymology:
@@ -19,5 +19,5 @@ enum property {
   word,
   type,
   etymology,
-  definition
+  definition,
 }

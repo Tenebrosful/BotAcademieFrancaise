@@ -48,8 +48,8 @@ async function post(text: string) {
     $type: "app.bsky.feed.post",
     text: rt.text,
     facets: rt.facets,
-    created_at: new Date().toISOString()
-  }
+    created_at: new Date().toISOString(),
+  };
 
   await agent.post(post);
 }

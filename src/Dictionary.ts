@@ -1,5 +1,5 @@
 import { parse as parseHTML } from "npm:node-html-parser";
-import { parse as parseCSV } from "jsr:@std/csv";
+import { parse as parseCSV } from "@std/csv";
 import { idToIdStr, Word } from "./Word.ts";
 
 const BASE_URL = "https://www.dictionnaire-academie.fr/article/";
@@ -15,7 +15,7 @@ class Dictionary {
 
       switch (response.status) {
         case 200:
-          response.text().then(text => {
+          response.text().then((text) => {
             this.words.set(i, Word.FromHTML(parseHTML(text), i));
           });
           break;
@@ -46,8 +46,8 @@ class Dictionary {
           word.type,
           word.etymology,
           word.definition,
-          word.added_at != "" ? new Date(word.added_at) : undefined
-        )
+          word.added_at != "" ? new Date(word.added_at) : undefined,
+        ),
       );
     });
   }
@@ -61,10 +61,10 @@ class Dictionary {
     const nextId = this.words.size + 1;
     console.info(`Tentative d'ajout du mot ${nextId}`);
     return new Promise((resolve, reject) => {
-      this.fetchNextWord().then(response => {
+      this.fetchNextWord().then((response) => {
         switch (response.status) {
           case 200:
-            response.text().then(text => {
+            response.text().then((text) => {
               const newWord = Word.FromHTML(parseHTML(text), nextId);
               newWord.added_at = new Date();
               this.words.set(nextId, newWord);
@@ -95,4 +95,4 @@ function fetchWord(id: number): Promise<Response> {
   return fetch(getWordUrl(id));
 }
 
-export { getWordUrl, fetchWord, Dictionary };
+export { Dictionary, fetchWord, getWordUrl };

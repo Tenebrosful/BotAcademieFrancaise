@@ -1,9 +1,9 @@
-import { writeFile, readFile } from "node:fs";
+import { readFile, writeFile } from "node:fs";
 import { Dictionary } from "./Dictionary.ts";
-import { stringify } from "jsr:@std/csv";
+import { stringify } from "@std/csv";
 import { printTime } from "./Util.ts";
 
-export { SaveToCSV, LoadFromCSV };
+export { LoadFromCSV, SaveToCSV };
 
 function SaveToCSV(dictionary: Dictionary, path: string) {
   const tmp = Array.from(dictionary.words.values());

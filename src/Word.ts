@@ -2,7 +2,6 @@ import { HTMLElement } from "npm:node-html-parser";
 import { findElement, property } from "./HtmlHelper.ts";
 
 class Word implements Readonly<Record<string, unknown>> {
-
   id: number;
   id_str: string;
   word?: string;
@@ -40,4 +39,4 @@ function idToIdStr(id: number): string {
   return id.toString().padStart(4, "0");
 }
 
-export { Word, idToIdStr };
+export { idToIdStr, Word };

@@ -3,6 +3,9 @@
     "dev": "deno run --allow-read --allow-net --allow-write --watch main.ts",
     "run": "deno run --allow-read --allow-net --allow-write main.ts"
   },
+  "fmt": {
+    "lineWidth": 140
+  },
   "imports": {
     "@atproto/api": "npm:@atproto/api@^0.13.23",
     "@bearz/dotenv": "jsr:@bearz/dotenv@^0.0.2",
