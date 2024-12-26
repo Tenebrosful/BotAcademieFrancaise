@@ -1,1 +1,1 @@
-import { assertEquals } from "@std/assert";
+import { _assertEquals } from "@std/assert";
