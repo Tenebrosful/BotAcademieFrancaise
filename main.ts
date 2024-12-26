@@ -5,7 +5,7 @@ import { login, post } from "./src/Bluesky.ts";
 import { getWordUrl } from "./src/Dictionary.ts";
 import { printTime } from "./src/Util.ts";
 
-const cron = parseCronExpression("* * 8,12,20 * * *");
+const cron = parseCronExpression("0 8,12,20 * * *");
 
 console.log(`${printTime()} Login to Bluesky...`);
 
@@ -15,6 +15,10 @@ console.log(`${printTime()} Logged in !`);
 
 console.log(`${printTime()} Starting !`);
 
+const nextDates = cron.getNextDates(3);
+
+console.log(`${printTime()} Next dates: ${nextDates[0]}, ${nextDates[1]}, ${nextDates[2]}`);
+
 scheduler.setInterval(cron, async () => {
   console.log(`${printTime()} Routine...`);
   const newWords = await RoutineNewWord();
@@ -23,6 +27,8 @@ scheduler.setInterval(cron, async () => {
     console.log(`${printTime()} New Word : ${word.word} (${word.type})`);
     post(`📖✒️ Nouveau mot intercalaire !\n\n${word.word} (${word.type})\n\n${getWordUrl(word.id)}`);
   });
+
+  console.log(`${printTime()} End routine, next date : ${cron.getNextDate()}`);
 });
 
 Deno.addSignalListener("SIGINT", () => {
