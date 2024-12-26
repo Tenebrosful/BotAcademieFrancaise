@@ -36,7 +36,7 @@ Deno.addSignalListener("SIGINT", () => {
   Deno.exit(0);
 });
 
-Deno.addSignalListener("SIGINT", () => {
+Deno.addSignalListener("SIGTERM", () => {
   console.log(`${printTime()} Arrêt du programme...`);
   Deno.exit(0);
 });
