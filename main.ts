@@ -5,7 +5,7 @@ import { login, post } from "./src/Bluesky.ts";
 import { getWordUrl } from "./src/Dictionary.ts";
 import { printTime } from "./src/Util.ts";
 
-const cron = parseCronExpression("0 8,12,20 * * *");
+const cron = parseCronExpression("0 12 * * *");
 
 console.log(`${printTime()} Login to Bluesky...`);
 
