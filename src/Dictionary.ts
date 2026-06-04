@@ -154,7 +154,7 @@ function getWordUrl(id: string): string {
 }
 
 function fetchWord(letter: string, id: number, length: number | undefined): Promise<Response> {
-  return fetch(getWordUrl(letter + idToIdStr(id, length)), { headers: { "User-Agent": "COME ON" } });
+  return fetch(getWordUrl(letter + idToIdStr(id, length)), { headers: { "User-Agent": "@bot-dico-academie.tenebrosful.fr" } });
 }
 
 export { Dictionary, fetchWord, getWordUrl };
