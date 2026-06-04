@@ -2,17 +2,17 @@ import { HTMLElement } from "npm:node-html-parser";
 import { findElement, property } from "./HtmlHelper.ts";
 
 class Word implements Readonly<Record<string, unknown>> {
-  id: number;
-  id_str: string;
+  id: string;
+  letter: string;
   word?: string;
   type?: string;
   etymology?: string;
   definition?: string;
   added_at?: Date;
 
-  constructor(id: number, id_str: string, word?: string, type?: string, etymology?: string, definition?: string, added_at?: Date) {
+  constructor(id: string, letter: string, word?: string, type?: string, etymology?: string, definition?: string, added_at?: Date) {
     this.id = id;
-    this.id_str = id_str;
+    this.letter = letter;
     this.word = word;
     this.type = type;
     this.etymology = etymology;
@@ -21,8 +21,8 @@ class Word implements Readonly<Record<string, unknown>> {
   }
   readonly [x: string]: unknown;
 
-  static FromHTML(html: HTMLElement, id: number): Word {
-    const word = new Word(id, idToIdStr(id));
+  static FromHTML(html: HTMLElement, idwithletter: string): Word {
+    const word = new Word(idwithletter, idwithletter[0] as string);
     word.word = findElement(html, property.word);
     word.type = findElement(html, property.type);
     word.etymology = findElement(html, property.etymology);
@@ -31,7 +31,7 @@ class Word implements Readonly<Record<string, unknown>> {
   }
 
   toString(): string {
-    return `${this.id_str} - ${this.word} (${this.type}) : ${this.definition}`;
+    return `${this.id} - ${this.word} (${this.type}) : ${this.definition}`;
   }
 }
 

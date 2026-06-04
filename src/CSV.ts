@@ -1,42 +1,23 @@
-import { readFile, writeFile } from "node:fs";
 import { Dictionary } from "./Dictionary.ts";
-import { stringify } from "@std/csv";
-import { printTime } from "./Util.ts";
+import { writeCSV, type CellValue } from "bun-excel";
 
 export { LoadFromCSV, SaveToCSV };
 
 function SaveToCSV(dictionary: Dictionary, path: string) {
-  const tmp = Array.from(dictionary.words.values());
-  const csv = stringify(tmp, { columns: ["id", "id_str", "word", "type", "etymology", "definition", "added_at"] });
 
-  writeFile(path, csv, (err) => {
-    if (err) {
-      throw err;
-    }
-    console.log(`${printTime()} File saved !`);
-  });
+
+  const words = Array.from(dictionary.words.values()).sort((a, b) => a.id.localeCompare(b.id));
+  const cells: CellValue[][] = [["id", "letter", "word", "type", "etymology", "definition", "added_at"]];
+
+  words.forEach(word => {
+    cells.push([word.id, word.letter, word.word, word.type, word.etymology, word.definition, word.added_at])
+  })
+
+  const file = Bun.file(path)
+
+  writeCSV(file, cells, { includeHeader: true })
 }
 
-function LoadFromCSV(path: string): Promise<Dictionary> {
-  return new Promise((resolve, reject) => {
-    readFile(path, (err, data) => {
-      if (err) {
-        try {
-          SaveToCSV(new Dictionary(), path);
-        } catch (err) {
-          reject(err);
-        }
-      }
-
-      if (data?.toString() === "") {
-        resolve(new Dictionary());
-        return;
-      }
-
-      const dictionary = new Dictionary();
-      dictionary.fillDictionaryFromCSV(data.toString());
-
-      resolve(dictionary);
-    });
-  });
+async function LoadFromCSV(path: string) {
+  return new Dictionary().fillDictionaryFromCSV(path)
 }

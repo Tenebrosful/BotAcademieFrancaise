@@ -1,1128 +1,1102 @@
-id,id_str,word,type,etymology,definition,added_at
-1,0001,ACCASTILLAGE,nom masculin,Étymologie : xviie siècle. Dérivé d’accastiller.,"■ 
-Marque de domaine : marine. Anciennement.
-Ensemble constitué par les gaillards d’avant et d’arrière ; partie supérieure des œuvres mortes, généralement recouverte de décorations et de sculptures.
-Un accastillage orné de moulures.
-▪ Désigne aujourd’hui les constructions et les équipements présents sur la superstructure d’un bateau.
-Le rouf, la timonerie font partie de l’accastillage.
-Spécialement.
-Petit accastillage ou, simplement, accastillage, l’ensemble des appareils utilisés sur le pont d’un bâtiment de plaisance, en particulier ceux qui servent à manœuvrer les cordages, les chaînes et les voiles.
-L’accastillage comprend les cabestans, les manilles, les poulies, les feux de route.",null
-2,0002,ACCASTILLER,verbe transitif,"Étymologie : xviie siècle. Tiré de l’espagnol acastillado, « fortifié », puis « accastillé », lui-même dérivé de castillo, « château ».","Marque de domaine : marine.
-Pourvoir un navire de son accastillage.
-Surtout au participe passé, adjectivement.
-Ce voilier est à vendre tout accastillé.",null
-3,0003,ACCUSATOIRE,adjectif,"Étymologie : xive siècle. Emprunté du latin accusatorius, « qui se rapporte à l’accusateur ».","Marque de domaine : droit.
-Se dit d’une procédure dans laquelle les parties ont l’initiative de l’instance, de son déroulement, de son instruction, par opposition à Inquisitoire.
-La procédure accusatoire est en vigueur dans les pays anglo-saxons.
-Dans le système accusatoire, le rôle du juge ou du jury est celui d’un arbitre impartial entre l’accusation et la défense, qui s’affrontent de façon orale, contradictoire et publique.",null
-4,0004,ACÉDIE,nom féminin,"Étymologie : xvie siècle, acedie. Emprunté, par l’intermédiaire du latin chrétien acedia, « nonchalance, dégoût, paresse spirituelle », du grec akêdia, « indifférence, négligence », et, en particulier, « négligence dans les soins apportés aux morts », lui-même dérivé de kêdos, « soin, souci ».","Marque de domaine : théologie.
-État de paresse spirituelle, d’abord observé dans la vie érémitique et monastique, qui se traduit, même et surtout chez les âmes les plus avancées, par un relâchement de l’ascèse et conduit au découragement, à la tristesse et au dégoût de Dieu.
-Dans les listes modernes des péchés capitaux, le terme d’« acédie » est parfois remplacé par celui de « paresse ».
-Au chant VII de l’« Enfer » de Dante, certains pécheurs sont coupables d’acédie.",null
-5,0005,ACHÉIROPOÏÈTE,adjectif,"Étymologie : xviiie siècle. Emprunté du grec akheiropoiêtos, de même sens, lui-même composé du préfixe a‑ privatif, de kheir, « main », et poiêtos, participe passé de poieîn, « faire ».","Didact.
-Se dit d’une image, notamment de celle du Christ ou de la Vierge Marie, qui n’a pas été créée par la main de l’homme.
-Le visage du Christ sur le voile de Véronique est considéré comme la première image achéiropoïète.
-Le portrait du Christ de l’église Saint-Jean-de-Latran à Rome, ébauché par saint Luc et supposé achevé par les anges, est dit achéiropoïète.
-L’image achéiropoïète du corps du Christ sur le saint suaire.",null
-6,0006,ACIDOPHILE,adjectif,"Étymologie : xixe siècle. Composé à l’aide d’acide et de ‑phile, tiré du grec philos, « ami ».","1. 
-Marque de domaine : écologie.
-Se dit d’une espèce végétale qui ne se développe que sur un sol acide.
-Les bruyères sont des plantes acidophiles.
-Par métonymie.
-Une chênaie acidophile.
-▪ Par extension.
-Qui vit sur un substrat, dans un environnement acide.
-Une bactérie, un champignon acidophiles.
+id,letter,word,type,etymology,definition,added_at
+A0001,A,A,nom masculin invariable,,"1. 
+Première lettre et première voyelle de l’alphabet français, s’écrivant a en minuscule, A en majuscule.
+La lettre A, le a.
+Le mot « abracadabra » comporte cinq a.
+Un a accent grave (à), qui porte un accent grave.
+Un a accent circonflexe ou, elliptiquement, un a circonflexe (â), qui porte un accent circonflexe.
+▪ Expr. fig.
+Ne savoir ni A ni B, ne pas savoir lire et, par extension, ignorer jusqu’aux rudiments d’une science, d’un art.
+Le B-A, BA, les premiers éléments nécessaires à la connaissance d’une discipline, à la pratique d’une activité.
+C’est le B-A, BA de la politique.
+De A à Z, du commencement à la fin.
+Il a récité son poème de A à Z sans la moindre erreur.
 
-
-2. 
-Marque de domaine : histologie.
-Qui fixe les colorants acides, en particulier l’éosine.
-L’hémoglobine est acidophile.
-Leucocyte acidophile, globule blanc polynucléaire dont les granulations cytoplasmiques sont colorées en orange par l’éosine (on dit plutôt Leucocyte éosinophile).",null
-7,0007,ACTINE,nom féminin,"Étymologie : xixe siècle. Dérivé du grec akti, « rayon ».","Marque de domaine : physiologie.
-Protéine qui concourt au maintien ou à la modification de la structure d’une cellule et qui, associée à la myosine dans une fibre musculaire, permet la contraction du muscle.
-Une mutation du gène de l’actine peut être à l’origine de myopathies congénitales.",null
-8,0008,ADÉNINE,nom féminin,"Étymologie : xixe siècle. Dérivé savant du grec adên, « glande ».","Marque de domaine : biochimie.
-Une des bases azotées constitutives des acides nucléiques.
-Dans une molécule d’A.D.N., une adénine est toujours associée à une thymine.",null
-9,0009,"ADJECTIVAL, ADJECTIVALE",adjectif,Étymologie : xixe siècle. Dérivé d’adjectif.,"Marque de domaine : grammaire.
-Relatif à la catégorie de l’adjectif.
-Un emploi adjectival.
-Locution adjectivale, qui tient dans la phrase le rôle d’un adjectif.
-« Ci-joint », « honoris causa » ou « d’outre-tombe » sont des locutions adjectivales.
-(On dit aussi, moins souvent, Adjectif.)",null
-10,0010,"AÉROSPATIAL, AÉROSPATIALE",adjectif et nom féminin,Étymologie : xxe siècle. Composé d’aéro‑ et de spatial.,"1. 
-Adj.
-Relatif à l’aéronautique et à l’astronautique ; qui peut évoluer à la fois dans l’atmosphère terrestre et en dehors de celle-ci.
-Recherche, industrie aérospatiale.
-Engin aérospatial.
-
-2. 
-N. f.
-Ensemble des sciences et des techniques ayant trait à la navigation aéronautique et astronautique.
-Un ingénieur de l’aérospatiale.",null
-11,0011,AFFINE,adjectif féminin,"Étymologie : xxe siècle. Emprunté du latin affinis, « limitrophe, voisin ; allié », lui-même dérivé de finis, « limite, fin, but ».","■ 
-Marque de domaine : mathématiques.
-Se dit d’une fonction du premier degré à une variable, qui correspond au produit de cette variable par un nombre réel auquel est ajouté un autre nombre réel, et qui s’écrit f(x) = ax + b.
-Une fonction affine est représentée par une droite.
-Une fonction linéaire est une fonction affine.
-▪ Par métonymie, en géométrie.
-Transformation, application affine, qui fait correspondre à chaque point d’une figure un nouveau point dont les coordonnées sont obtenues par l’emploi de fonctions affines.
-Toute transformation affine est caractérisée par la conservation de l’alignement des points, du rapport des longueurs et du parallélisme.",null
-12,0012,ALANINE,nom féminin,Étymologie : xixe siècle. Formé à partir d’aldéhyde.,"Marque de domaine : biochimie.
-Acide aminé hydrophobe, qui est un constituant des protéines.
-Lors d’un exercice physique, l’alanine libérée par les muscles est transformée en glucose et en urée par le foie.",null
-13,0013,ALLÈLE,nom masculin,"Étymologie : xxe siècle. Tiré du génitif grec allêlôn, « les uns, les autres ».","Marque de domaine : génétique.
-Chacune des formes d’un gène située sur le même locus de deux chromosomes homologues et caractérisée par une certaine séquence de nucléotides.
-Allèle dominant, allèle récessif.
-Les mutations sont à l’origine de l’apparition de nouveaux allèles.
-Le principal système de groupes sanguins est déterminé par trois allèles désignés par les lettres A, B et O.",null
-14,0014,ALLERGÈNE,nom masculin,"Étymologie : xxe siècle. Composé d’aller‑, tiré d’allergie, et de ‑gène, tiré du grec gennân, « engendrer ».","■ 
-Marque de domaine : pathologie.
-Substance qui, à la suite d’un contact, d’une ingestion ou d’une inhalation, peut provoquer une allergie chez certains individus.
-Il existe plusieurs allergènes différents dans l’arachide.
-Par extension.
-Les pollens, les poils de chat, les acariens sont des allergènes.
-▪ Adjectivement.
-Un ingrédient, une crème allergènes.
-(On dit aussi Allergisant.)",null
-15,0015,"ALLERGISANT, ALLERGISANTE",adjectif,Étymologie : xxe siècle. Dérivé d’allergie.,"Marque de domaine : pathologie.
-Qui, à la suite d’un contact, d’une ingestion ou d’une inhalation peut provoquer une allergie chez certains individus.
-(On dit aussi Allergène.)",null
-16,0016,ALLERGOLOGIE,nom féminin,"Étymologie : xxe siècle. Composé à l’aide d’allergie et de ‑logie, tiré du grec logos, « discours, traité ».","Marque de domaine : médecine.
-Discipline qui étudie les allergies et leurs traitements.",null
-17,0017,ALLERGOLOGISTE,nom,Étymologie : xxe siècle. Dérivé d’allergologie.,"Marque de domaine : médecine.
-Médecin spécialiste de l’allergologie.
-En apposition.
-Un médecin allergologue.",null
-18,0018,ALLOGREFFE,nom féminin,Étymologie : xxe siècle. Composé d’allo‑ et de greffe II.,"Marque de domaine : médecine.
-Greffe d’un organe, d’un tissu, de cellules prélevés sur une autre personne que le receveur, par opposition à Autogreffe.",null
-19,0019,ALLONGEAIL,nom masculin,"Étymologie : xvie siècle, alongeail. Mot employé par Montaigne pour désigner le dernier livre des Essais, qui parut huit ans après les deux premiers, lui-même dérivé d’allonger.","Marque de domaine : littérature.
-Ajout, addition que portait Montaigne sur une version imprimée des Essais en vue de l’édition suivante.
-Les allongeails de l’exemplaire de Bordeaux.",null
-20,0020,ALLOPHONE,adjectif,"Étymologie : xixe siècle, d’abord employé en assyriologie pour parler d’un groupe de caractères qui, transposé d’une langue dans une autre, se prononce différemment. Composé d’allo‑ et de ‑phone, tiré du grec phonê, « son, voix, langue ».","1. 
-Marque de domaine : phonétique.
-Se dit de phonèmes ou de mots qui ont la même forme écrite mais qui se prononcent différemment, par opposition à Homophone.
-Le prénom « Marc » et le nom commun « marc » sont allophones.
-Subst.
-Le r grasseyé, que l’on entend en région parisienne, et le r apical ou roulé, caractéristique de la prononciation bourguignonne ou auvergnate, sont des allophones.
-Des allophones et des homographes.
-
-2. 
-Se dit d’une personne ou d’un groupe de personnes dont la langue maternelle est une langue étrangère dans le pays où ils se trouvent.
-Un étudiant allophone.
-Subst.
-L’intégration des allophones.",null
-21,0021,ANAPHASE,nom féminin,Étymologie : xixe siècle. Composé d’ana‑ et de phase.,"Marque de domaine : biologie.
-Troisième phase de la mitose ou de l’une des deux divisions méiotiques.
-Au cours de l’anaphase de la mitose, chaque chromosome se scinde en deux chromatides, qui migrent vers les pôles opposés de la cellule.
-L’anaphase de la première division de la méiose se caractérise par la séparation des chromosomes homologues.",null
-22,0022,ANAPHORIQUE,adjectif,"Étymologie : xixe siècle. Emprunté du grec anaphorikos, « qui rejette par le haut », puis, en grammaire, « relatif, qui se rapporte à », lui-même dérivé de anapherein, « porter en arrière », puis « rappeler le souvenir de ».","1. 
-Marque de domaine : rhétorique.
-Qui tient de l’anaphore ; qui comporte une anaphore.
-Une tirade anaphorique.
-Le vers de « Suréna », de Corneille, « Toujours aimer, toujours souffrir, toujours mourir » est anaphorique.
-Subst.
-Un anaphorique.
-
-2. 
-Marque de domaine : grammaire.
-Qui reprend un mot ou un groupe de mots placé avant.
-Un déterminant démonstratif anaphorique.
-Les pronoms personnels anaphoriques sont aussi appelés « pronoms de reprise ».",null
-23,0023,ANGIOTENSINE,nom féminin,Étymologie : xxe siècle. Composé à partir d’angio‑ et de tension.,"Marque de domaine : physiologie.
-Hormone hypertensive qui résulte de l’action de la rénine sur une substance libérée par le foie.",null
-24,0024,ANTANACLASE,nom féminin,"Étymologie : xviiie siècle. Composé à l’aide du grec anti‑, « qui est en face ; opposé, contraire », et anaklasis, « action de se briser en se courbant ; répercussion du son ».","Marque de domaine : rhétorique.
-Figure de style qui consiste à répéter, dans une phrase ou dans un dialogue, un mot pris dans deux sens différents.
-« Il chante quand cela lui chante » présente une antanaclase.",null
-25,0025,ANTÉPOSER,verbe transitif,"Étymologie : xvie siècle, au sens de « préférer » ; xxe siècle, au sens actuel. Composé d’anté‑ et de poser.","Marque de domaine : linguistique.
-Placer un élément avant un autre avec lequel il est en relation syntaxique.
-Le participe passé d’un verbe conjugué avec l’auxiliaire avoir s’accorde avec le complément d’objet direct quand celui-ci est antéposé.
-Surtout au participe passé.
-Un adjectif antéposé.",null
-26,0026,ANTÉPOSITION,nom féminin,Étymologie : xixe siècle. Composé d’anté‑ et de position.,"Marque de domaine : linguistique.
-Le fait pour un mot ou un groupe de mots d’être placé avant un autre avec lequel il a un lien syntaxique.
-Dans la phrase « Pierre le Grand était un homme grand mais aussi un grand homme », l’antéposition de l’adjectif « grand » change le sens du groupe nominal.",null
-27,0027,ANTICYCLONIQUE,adjectif,Étymologie : xixe siècle. Dérivé d’anticyclone.,"Marque de domaine : météorologie.
-Qui se rapporte à un anticyclone.
-Aire anticyclonique, circulation anticyclonique.
-(On trouve parfois Anticyclonal.)",null
-28,0028,"ANTIPALUDÉEN, ANTIPALUDÉENNE",adjectif,"Étymologie : xixe siècle. Dérivé savant du latin palus, paludis, « marais, étang ».","Marque de domaine : médecine.
-Propre à prévenir ou à combattre le paludisme.
-Traitement antipaludéen.
-Subst.
-La quinine est un antipaludéen.",null
-29,0029,ANTIPERSONNEL,adjectif invariable,"Étymologie : xxe siècle. Dérivé de personnel, au sens d’« ensemble donné de personnes ».","Marque de domaine : militaire.
-Se dit d’un engin ou d’une arme conçus pour atteindre les hommes.
-Une grenade antipersonnel.
-Des mines antipersonnel.",null
-30,0030,APOPTOSE,nom féminin,"Étymologie : xxe siècle. Emprunté du grec apoptôsis, « chute », lui-même tiré de piptein, « tomber ».","Marque de domaine : biologie.
-Processus par lequel une cellule commande son autodestruction en réponse à un signal, et qui est nécessaire à la survie des organismes pluricellulaires.
-Dans la langue courante, l’apoptose est souvent appelée « mort cellulaire programmée ».
-L’apoptose joue un grand rôle dans le développement embryonnaire.",null
-31,0031,APOTROPAÏQUE,adjectif,"Étymologie : xviiie siècle, apotropéen ; xxe siècle, apotropaïque. Dérivé savant du grec apotropaios, « qui détourne (les maux) », lui-même composé à l’aide de apo, « au loin, à l’écart », et trepein, « tourner ».","Qui conjure le mauvais sort, protège contre toute influence mauvaise.
-Un rite, une formule apotropaïques.
-Chez les Grecs, la paire de grands yeux qui ornaient la coque des navires de guerre avait une fonction apotropaïque.",null
-32,0032,ARAGONITE,nom féminin,"Étymologie : xixe siècle. Dérivé d’Aragon, la région d’Espagne où fut découvert ce minéral.","Marque de domaine : minéralogie.
-Carbonate de calcium qui cristallise dans le système orthorhombique.
-La coquille de l’amande de mer est constituée d’aragonite.",null
-33,0033,ARCHÉE,nom féminin,Étymologie : xxe siècle. Tiré d’archée II.,"Marque de domaine : biologie.
-Microorganisme procaryote, morphologiquement proche des bactéries, mais qui présente des propriétés moléculaires, métaboliques et membranaires originales.
-Les archées sont capables de vivre dans des milieux extrêmes tels que des sources très chaudes, acides ou salines.",null
-34,0034,ARGININE,nom féminin,"Étymologie : xxe siècle. Dérivé savant du grec argos, « brillant ».","Marque de domaine : biochimie.
-Acide aminé basique, qui est un constituant des protéines.
-Les nouveau-nés prématurés ne produisent pas suffisamment d’arginine et doivent recevoir une alimentation spécifique.",null
-35,0035,"ARTHURIEN, ARTHURIENNE",adjectif,"Étymologie : xixe siècle. Dérivé d’Arthur, roi légendaire de l’ancienne Bretagne, qui aurait vécu à la fin du ve siècle et au début du vie siècle.","Marque de domaine : littérature.
-Qui se rapporte au roi Arthur ou à sa légende.
-Roman arthurien.
-Cycle arthurien, ensemble d’œuvres du Moyen Âge qui ont pour sujet le roi Arthur et les chevaliers de la Table ronde, et qu’on appelle aussi Cycle breton ou Matière de Bretagne.
-« Perceval ou le Conte du Graal », de Chrétien de Troyes, appartient au cycle arthurien.",null
-36,0036,ARTICULATOIRE,adjectif,"Étymologie : xvie siècle, en médecine, au sens de « qui concerne l’articulation » ; xxe siècle, au sens actuel. Dérivé d’articulation.","Marque de domaine : phonétique.
-Relatif à l’ensemble des mécanismes anatomiques et physiologiques qui permettent la production des sons par les organes vocaux.
-Phonétique articulatoire, qui classe les sons d’une langue selon la façon dont ils sont émis par les organes vocaux, par opposition à Phonétique acoustique, qui en étudie les caractères physiques.
-Tension articulatoire, renforcement de l’effort musculaire fourni par les organes phonateurs de la bouche, qui s’accompagne d’une forte pression de l’air expiré.
-Les consonnes dites fortes, comme p, t ou k, sont émises avec une importante tension articulatoire.",null
-37,0037,ARYANISATION,nom féminin,Étymologie : xxe siècle. Dérivé d’aryen.,"Marque de domaine : histoire.
-Ensemble des mesures visant, dans l’Allemagne nationale-socialiste et les pays qu’elle occupait, à évincer progressivement les Juifs de la vie économique, en confisquant leurs biens afin de les transférer à des « Aryens », c’est-à-dire, dans le vocabulaire des nazis, des personnes considérées comme de race pure et supérieure.",null
-38,0038,ASPARTIQUE,adjectif,Étymologie : xixe siècle. Dérivé du radical d’asparagine.,"Marque de domaine : biochimie.
-Acide aspartique, acide aminé, qui est un constituant des protéines.
-Dans un milieu de pH neutre, l’acide aspartique est chargé négativement et il est alors appelé « aspartate ».",null
-39,0039,AUBUSSON,nom masculin,"Étymologie : xixe siècle. Tiré d’Aubusson, nom géographique.","Tapisserie tissée dans une des manufactures installées à Aubusson.
-Le motif des verdures s’est imposé dans les aubussons à partir du xvie siècle.
-Un aubusson ornait le mur de la salle de réception.",null
-40,0040,"AUTO-IMMUN, AUTO-IMMUNE",adjectif,Étymologie : xxe siècle. Composé d’auto‑ et d’immun.,"Marque de domaine : pathologie.
-Se dit d’une maladie dans laquelle sont produits des anticorps dirigés contre l’organisme du fait d’un dérèglement du système immunitaire.
-La polyarthrite rhumatoïde est une maladie auto-immune.",null
-41,0041,AUTOSOME,nom masculin,"Étymologie : xxe siècle. Composé d’auto‑ et de ‑some, tiré de chromosome, parce que ce chromosome appartient à une paire de chromosomes de taille identique.","Marque de domaine : biologie.
-Désigne tout chromosome autre qu’un hétérochromosome.
-Dans un caryotype humain, on compte vingt-deux paires d’autosomes et une paire d’hétérochromosomes.",null
-42,0042,AVIAIRE,adjectif,"Étymologie : xxe siècle. Emprunté du latin aviarius, « qui se rapporte aux oiseaux », lui-même dérivé d’avis, « oiseau ».","Relatif aux oiseaux.
-Élevage aviaire.
-Peste aviaire ou grippe aviaire, maladie infectieuse d’origine virale touchant les oiseaux sauvages et domestiques.
-Le virus de la grippe aviaire est transmissible aux mammifères.",null
-43,0043,AVOINÉE,nom féminin,"Étymologie : xxe siècle. Dérivé de l’ancien verbe avoiner, « battre l’avoine », puis, par analogie, « battre quelqu’un ».","Pop.
-Sévère correction, volée de coups infligée à une personne ou à un animal ; fig., défaite cuisante.
-Prendre une avoinée.
-Il a mis une belle avoinée à son adversaire, à son ennemi.",null
-44,0044,BARZOÏ,nom masculin,"Étymologie : xxe siècle. Mot russe, signifiant « lévrier ».","Race de lévrier à poil long, aussi appelée « lévrier russe ».
-En Russie, les barzoïs étaient employés pour la chasse à courre.",null
-45,0045,BASOPHILE,adjectif,"Étymologie : xxe siècle. Composé à partir de basique et de ‑phile, tiré du grec philos, « ami ».","1. 
-Marque de domaine : écologie.
-Se dit d’une espèce végétale qui ne se développe que sur un sol basique, notamment sur les terrains calcaires.
-Le mouron rouge est une plante basophile.
-Par métonymie.
-Une flore basophile.
-▪ Par extension.
-Qui vit sur un substrat basique, dans un environnement basique.
-Une bactérie, un champignon basophiles.
-
-
-2. 
-Marque de domaine : histologie.
-Qui fixe les colorants basiques.
-L’A.D.N. est basophile.
-Leucocyte basophile, globule blanc polynucléaire dont les granulations cytoplasmiques sont colorées en violet par le bleu de méthylène.",null
-46,0046,"BERLINOIS, BERLINOISE",adjectif,"Étymologie : xviiie siècle. Dérivé de Berlin, nom géographique.","■ 
-Relatif à la ville de Berlin, à sa région, à ses habitants.
-Accent berlinois.
-Le théâtre berlinois.
-Subst.
-Un Berlinois, une Berlinoise.
-▪ Marque de domaine : papeterie.
-Format berlinois, format de papier (47 cm × 32 cm) notamment utilisé dans la presse écrite.",null
-47,0047,BIGOUDEN,adjectif et nom féminin,Étymologie : xixe siècle. Mot breton.,"1. 
-Adj.
-Relatif à la région de Pont-l’Abbé, en Bretagne.
-Le pays bigouden.
-Subst.
-Un Bigouden, une Bigoudène.
-
-2. 
-N. f.
-Coiffe finement brodée, en forme de haut cylindre et ornée de deux rubans tombant sur les épaules, que les femmes portent traditionnellement dans la région de Pont-l’Abbé (on rencontre aussi le masculin Bigouden).",null
-48,0048,BIODIVERSITÉ,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais biodiversity, de même sens.","Marque de domaine : biologie.
-Richesse naturelle du monde vivant.
-La biodiversité d’un milieu est déterminée par la variété des écosystèmes, des espèces et de leurs génomes.
-La biodiversité d’un récif corallien.
-Protection de la biodiversité.",null
-49,0049,BIOÉTHIQUE,nom féminin,Étymologie : xxe siècle. Composé de bio‑ et d’éthique.,"Ensemble de réflexions portant sur les problèmes d’ordre moral soulevés par les progrès de la recherche, principalement médicale et biologique, et sur les principes et les prescriptions qui permettent d’y répondre.
-Le clonage, la recherche sur les embryons posent des questions de bioéthique.
-Les premières lois françaises de bioéthique datent de 1994.",null
-50,0050,BIZARDE,adjectif féminin,Étymologie : xviiie siècle. Altération de bizarre.,"Marque de domaine : vènerie.
-Seulement dans la locution Tête bizarde, tête d’un cerf, d’un daim ou d’un chevreuil dont les bois, du fait d’une malformation, d’un choc ou d’une blessure, sont irréguliers.",null
-51,0051,BOGUE,nom masculin,"Étymologie : xxe siècle. Francisation de l’anglais bug, « insecte nuisible », puis « défaut », en informatique.","Marque de domaine : informatique.
-Défaut dans la conception d’un programme, se manifestant par des anomalies de fonctionnement.
-Par extension.
-Désigne, dans la langue courante, tout dysfonctionnement informatique.",null
-52,0052,BOHRIUM,nom masculin,Étymologie : xxe siècle. Dérivé du nom du savant danois Niels Bohr (1885-1962).,"Marque de domaine : chimie.
-Élément artificiel radioactif (symbole : Bh ; numéro atomique : 107).
-Le bohrium a été découvert en 1981.",null
-53,0053,BOLLANDISTE,nom masculin,Étymologie : xviiie siècle. Tiré du nom du jésuite Jean Bolland (1596-1665).,"Membre d’une société savante qui, depuis le xviie siècle, se consacre à des recherches en hagiographie et en histoire religieuse.
-La Société des Bollandistes publie « Les Actes des saints », éditions critiques des documents concernant chaque saint, publiées selon l’ordre du calendrier liturgique.
-Adjectivement.
-Un jésuite bollandiste.",null
-54,0054,BOSNIAQUE,adjectif et nom masculin,"Étymologie : xixe siècle. Dérivé de Bosnie, nom géographique.","1. 
-Se disait de ce qui est relatif à l’État de Bosnie-Herzégovine, à ses habitants.
-Subst.
-Un Bosniaque, une Bosniaque.
-
-(On dit aujourd’hui officiellement Bosnien.)
-
-
-2. 
-Relatif à la communauté de confession musulmane de Bosnie-Herzégovine.
-Subst.
-Un Bosniaque, une Bosniaque, personne appartenant à cette communauté.
-Les Bosniaques de Serbie, de Turquie, de Bosnie-Herzégovine.",null
-55,0055,"BOSNIEN, BOSNIENNE",adjectif,"Étymologie : xixe siècle. Dérivé de Bosnie, nom géographique.","■ 
-Relatif à l’État de Bosnie-Herzégovine, à ses habitants.
-Le peuple bosnien est majoritairement composé de Bosniaques, de Croates et de Serbes.
-Subst.
-Un Bosnien, une Bosnienne.
-(On a dit aussi Bosniaque.)",null
-56,0056,"BOULONNAIS, BOULONNAISE",adjectif,"Étymologie : xvie siècle. Dérivé de Boulogne-sur-Mer, nom géographique.","■ 
-Relatif à la ville de Boulogne-sur-Mer, à sa région, à ses habitants.
-Un chalutier boulonnais.
-Subst.
-Un Boulonnais, une Boulonnaise.
-▪ Spécialement.
-Cheval boulonnais ou, elliptiquement et subst., boulonnais, cheval de trait originaire de cette région, grand et robuste, à la robe le plus souvent grise.
-Du fait de son allure rapide, le boulonnais a été utilisé pour le transport du poisson de la Manche à Paris jusqu’au milieu du xixe siècle.",null
-57,0057,BRONCHIOLITE,nom féminin,Étymologie : xixe siècle. Dérivé de bronchiole.,"Marque de domaine : pathologie.
-Inflammation des bronchioles causée par un virus, particulièrement fréquente chez les nourrissons.",null
-58,0058,"BRUXELLOIS, BRUXELLOISE",adjectif,"Étymologie : xive siècle. Dérivé de Bruxelles, nom géographique.","■ 
-Relatif à la ville de Bruxelles, à sa région, à ses habitants.
-Les dix-neuf communes bruxelloises.
-▪ Subst.
-Un Bruxellois, une Bruxelloise, personne qui est originaire de Bruxelles ou qui y réside.
-Marque de domaine : cuisine.
-À la bruxelloise, se dit d’un plat servi avec une garniture de choux de Bruxelles, d’endives et de pommes de terre.
-Un rôti de porc à la bruxelloise.",null
-59,0059,BUGNE,nom féminin,"Étymologie : xviiie siècle. Altération provençale de beigne, « bosse ; beignet ».","Régional.
-Pâtisserie lyonnaise faite d’une bande de pâte frite levée ou non et saupoudrée de sucre glace, qu’on mange traditionnellement le Mardi gras.
-Les bugnes levées ont généralement une forme de nœud.",null
-60,0060,CAIROTE,adjectif,"Étymologie : xixe siècle. Dérivé de Le Caire, nom géographique.","Relatif à la ville du Caire, à ses habitants.
-L’écrivain cairote Naguib Mahfouz.
-Subst.
-Un, une Cairote, personne qui est originaire du Caire ou qui habite cette ville.",null
-61,0061,CALCITE,nom féminin,"Étymologie : xixe siècle. Emprunté de l’allemand Calcit, de même sens, lui-même dérivé du latin calx, calcis, « chaux ».","Marque de domaine : minéralogie.
-Carbonate de calcium qui cristallise dans le système rhomboédrique et qui est le composant principal des calcaires.
-La calcite pure est aussi appelée spath d’Islande.
-Les piquants de l’oursin sont en calcite.",null
-62,0062,CALENDAIRE,adjectif,"Étymologie : xiiie siècle. Emprunté du latin calendarius, « qui a lieu aux calendes ».","Relatif au calendrier grégorien.
-Année calendaire, qui va du 1er janvier au 31 décembre (on dit plutôt Année civile).
-Jour calendaire, chacun des jours de l’année, qu’il soit ouvrable ou férié.",null
-63,0063,CAMÉRAMAN,nom masculin,"Étymologie : xxe siècle. Emprunté de l’anglais des États-Unis cameraman, de même sens, lui-même composé de camera, « caméra », et man, « homme ».","■ 
-Marque de domaine : cinéma. Marque de domaine : télévision.
-Personne chargée du maniement d’une caméra et de la prise de vues.
-Lors du Tour de France, de nombreux caméramans de télévision suivent à moto les coureurs.
-Un envoyé spécial et son caméraman.
-◉ Remarque : On préfèrera Cadreur, ‑euse ou Opérateur, ‑trice de prise de vues.
 ▪ En composition.
-Reporter-caméraman, journaliste auteur de reportages filmés (on dit mieux Reporter d’images).
+ABC, voir ce mot.
 
-
-(On trouve aussi un cameraman, des cameramen.)",null
-64,0064,CANOË-KAYAK,nom masculin,Étymologie : xxe siècle. Composé de canoë et de kayak.,"Sport nautique que l’on pratique avec un canoë ou un kayak.
-Un club de canoë-kayak.
-Le canoë-kayak est devenu un sport olympique en 1936.",null
-65,0065,CARAÏBE,adjectif,"Étymologie : xvie siècle, comme substantif ; xviie siècle, comme adjectif. Emprunté du guarani carib ou caraïb, « fort, brave ».","1. 
-Relatif à un peuple amérindien qui, venu du Venezuela, s’implanta dans les Petites Antilles et sur les côtes de la Guyane, avant d’être décimé par la colonisation européenne au xviie siècle.
-Un Indien caraïbe, une Indienne caraïbe ou, subst., un Caraïbe, une Caraïbe.
-Langues caraïbes, langues qui dérivent de celle que parlait ce peuple (on trouve aussi Langues caribes).
-
-2. 
-Relatif à la région des Caraïbes, qui comprend la mer des Antilles, ses îles et les côtes de l’Amérique latine qui la bordent, du Mexique à la Guyane (on dit aussi Caribéen).
-La zone caraïbe.
-La poésie caraïbe.",null
-66,0066,"CARIBÉEN, CARIBÉENNE",adjectif,"Étymologie : xxe siècle. Emprunté de l’anglais Caribbean, de même sens.","Relatif à la région des Caraïbes (en ce sens, on dit aussi Caraïbe) ; relatif à la population de cette région.
-Les côtes caribéennes.
-La littérature caribéenne.
-Les peuples caribéens.
-Subst.
-Un Caribéen, une Caribéenne.",null
-67,0067,CASSABLE,adjectif,Étymologie : xve siècle. Dérivé de casser.,"Se dit de ce qui peut se casser ou être cassé.
-La céramique est une matière cassable.
-Un cutter à lame cassable.",null
-68,0068,CAURI,nom masculin,"Étymologie : xviie siècle. Emprunté du tamoul kauri, de même sens.","Petite cyprée à la coquille ourlée ; par métonymie, cette coquille elle-même, qui servit de monnaie en Asie, en Océanie et en Afrique dès le xiiie siècle avant notre ère.
-Au Siam, les soldats furent payés en cauris jusqu’au milieu du xixe siècle.
-Un costume orné de cauris.",null
-69,0069,CÉNOZOÏQUE,nom masculin,"Étymologie : xxe siècle. Composé de céno‑, tiré du grec kainos, « récent », et de ‑zoïque, tiré du grec zoikos, « qui concerne les êtres vivants ».","Marque de domaine : géologie.
-Ère géologique qui a succédé au Mésozoïque, il y a soixante-cinq millions d’années, et qui regroupe le Tertiaire et le Quaternaire.
-Le Cénozoïque est notamment marqué par la formation de l’Himalaya et par la diversification des Mammifères.
-Adjectivement.
-Un fossile cénozoïque.",null
-70,0070,"CHIRAL, CHIRALE",adjectif,"Étymologie : xxe siècle. Emprunté de l’anglais chiral, de même sens, lui-même tiré du grec kheir, « main ».","Marque de domaine : sciences.
-Se dit de ce qui n’a pas de plan ni de centre de symétrie et qui n’est pas superposable à son image dans un miroir.
-Les deux mains sont chirales.
-L’hélice est une figure chirale.
-Spécialement. Marque de domaine : chimie.
-Les deux isomères chiraux d’une molécule ou, par métonymie, les deux isomères d’une molécule chirale.",null
-71,0071,CHIRALITÉ,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais chirality, de même sens, lui-même dérivé de chiral, « chiral ».","Marque de domaine : sciences.
-Propriété de ce qui est chiral.
-Pasteur a étudié la chiralité de l’acide tartrique.",null
-72,0072,"CHRISMAL, CHRISMALE",adjectif,"Étymologie : xxe siècle. Emprunté du latin chrétien chrismalis, « du saint chrême, chrismal », lui-même dérivé de chrisma, « onguent, baume », puis « huile bénite ».","Marque de domaine : liturgie chrétienne.
-Ne s’emploie plus guère que dans la locution Messe chrismale, messe généralement célébrée le Jeudi saint.
-Au cours de la messe chrismale, l’évêque, ou le patriarche en Orient, consacre le saint chrême et bénit les autres saintes huiles.",null
-73,0073,CHROMATIDE,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais chromatid, de même sens, lui-même dérivé de chromatin, « chromatine ».","Marque de domaine : biologie.
-Molécule d’A.D.N. associée à des protéines, qui est constitutive du chromosome et qui, après condensation, prend l’aspect d’un bâtonnet.
-Un chromosome à une chromatide, à deux chromatides.",null
-74,0074,CHRONOPHAGE,adjectif,"Étymologie : xxe siècle. Composé de chrono‑ et de ‑phage, tiré du grec phageîn, « manger, dévorer ».","■ 
-Plaisant.
-Se dit d’une tâche, d’une activité à laquelle on consacre trop de temps.
-Les jeux en ligne peuvent être chronophages.
-▪ Subst.
-Désigne parfois une personne importune à laquelle on est contraint d’accorder du temps.
-Henry de Montherlant se plaignait des chronophages que l’on tolère par politesse.",null
-75,0075,"CLAUDÉLIEN, CLAUDÉLIENNE",adjectif,Étymologie : xxe siècle. Dérivé du nom de Paul Claudel (1868-1955).,"Relatif à Paul Claudel, à son œuvre.
-La dramaturgie claudélienne.
-Le verset claudélien.
-Par extension.
-Qui évoque, par son écriture, son inspiration, l’œuvre de Claudel.",null
-76,0076,"CODANT, CODANTE",adjectif,"Étymologie : xxe siècle. Participe présent de coder, au sens de « permettre la transcription du code génétique ».","Marque de domaine : biologie.
-Qui est le support de l’information génétique permettant la synthèse d’un A.R.N., d’une protéine.
-Gène codant.
-Séquence codante, partie d’un gène qui est susceptible d’être transcrite en A.R.N. et qui est formée d’exons.
-Séquence non codante, ensemble constitué par les introns et les parties non transcrites de la molécule d’A.D.N.",null
-77,0077,COLINÉAIRE,adjectif,Étymologie : xxe siècle. Dérivé de linéaire.,"Marque de domaine : géométrie.
-Situé sur une même droite.
-Des segments colinéaires.
-Par extension.
-Vecteurs colinéaires, qui ont la même direction.
-Les points A, B et O sont alignés si les vecteurs  et  sont colinéaires.",null
-78,0078,COLOPHON,nom masculin,"Étymologie : xixe siècle. Emprunté du grec kolophôn, « faîte ; achèvement, couronnement d’une œuvre ».","■ 
-Dans un manuscrit ancien, note ajoutée à la fin de l’ouvrage ou d’une de ses parties par le copiste, dans laquelle il faisait figurer son nom, celui de son commanditaire, la date et le lieu de la copie, etc.
-▪ Par analogie.
-Dans les incunables et les imprimés anciens, note placée à la fin du texte, portant mention de la date et du lieu de l’impression, ainsi que du nom de l’imprimeur, et parfois de celui de l’auteur.
-Les colophons ont disparu lorsque s’est développé l’usage de faire figurer les indications qu’ils contenaient dans une page de titre et un achevé d’imprimer.",null
-79,0079,COMMEDIA DELL’ARTE,nom féminin invariable,"Étymologie : xviie siècle. Locution italienne, signifiant proprement « comédie jouée par des professionnels ».","Genre théâtral populaire apparu au xvie siècle en Italie, dans lequel les acteurs incarnent des types et improvisent dialogues et jeux de scène à partir d’un canevas constitué d’un petit nombre de situations récurrentes.
-Les lazzi de la commedia dell’arte.
-Les valets de la commedia dell’arte ont pour nom Polichinelle, Arlequin, Scaramouche ou Scapin.
-La commedia dell’arte influença notamment Molière et Marivaux.",null
-80,0080,COMPLÉTUDE,nom féminin,Étymologie : xxe siècle. Dérivé de complet I.,"Marque de domaine : logique.
-Propriété d’un système formel dans lequel toute proposition vraie est démontrable, et réciproquement.",null
-81,0081,CONDOM,nom masculin,"Étymologie : xviiie siècle. Emprunté de l’anglais condom, de même sens, peut-être tiré du latin condere, « cacher ».",S’est employé pour désigner un préservatif masculin.,null
-82,0082,"CONNOTATIF, CONNOTATIVE",adjectif,"Étymologie : xixe siècle. Emprunté du latin scolastique connotativus, « qui comprend, qui inclut », lui-même dérivé de connotare, « comprendre, inclure ».","Marque de domaine : linguistique.
-Relatif à la connotation, par opposition à Dénotatif.
-Le contexte d’emploi d’un mot fait varier sa valeur connotative.",null
-83,0083,"CONSTRICTIF, CONSTRICTIVE",adjectif,"Étymologie : xive siècle. Emprunté du latin constrictivus, « qui a la possibilité de serrer ; astringent », lui-même dérivé de constringere, « resserrer ».","1. 
-Marque de domaine : biologie. Marque de domaine : médecine.
-Qui entraîne une constriction ; qui est relatif à la constriction.
-Péricardite constrictive, caractérisée par un épaississement du péricarde qui resserre le cœur, gêne les contractions et entraîne une insuffisance cardiaque.
-L’infarctus du myocarde s’accompagne souvent d’une douleur constrictive thoracique.
 
 2. 
 Marque de domaine : phonétique.
-Une consonne constrictive ou, subst., une constrictive, une consonne dont l’émission est caractérisée par un bruit de frottement, qui résulte d’un resserrement du canal vocal (on dit aussi Consonne fricative).
-« S » est une consonne constrictive.
-« Ch » dans « chanson » est une constrictive sourde, « j » dans « jeudi », une constrictive sonore.",null
-84,0084,CONTRE-HERMINE,nom féminin,Étymologie : xviie siècle. Composé de contre‑ et d’hermine.,"Marque de domaine : héraldique.
-Fourrure dont les couleurs et métaux sont inversés par rapport à l’hermine et qui est constituée d’un champ de sable semé de mouchetures d’argent.",null
-85,0085,CONVIVANCE,nom féminin,"Étymologie : xviiie siècle, « fait de vivre ensemble ». Dérivé de l’ancien français convivre, « vivre ensemble », avec influence, au xxe siècle, de l’espagnol convivencia, qui a désigné la cohabitation entre juifs, chrétiens et musulmans en Espagne entre le viie siècle et la fin du xve siècle.","Situation dans laquelle des communautés, des groupes humains différents vivent ensemble au sein d’une même société en entretenant des relations de voisinage, de concorde et d’échange.",null
-86,0086,COPERNICIUM,nom masculin,Étymologie : xxie siècle. Dérivé du nom du savant polonais Nicolas Copernic (1473-1543).,"Marque de domaine : chimie.
-Élément artificiel (symbole : Cn ; numéro atomique : 112).",null
-87,0087,COPLANAIRE,adjectif,"Étymologie : xixe siècle. Composé à partir de co‑ et de l’adjectif latin planus, « plan ».","Marque de domaine : géométrie.
-Situé dans le même plan.
-Points, vecteurs coplanaires.
-Deux droites sécantes sont coplanaires.",null
-88,0088,CORRÉGIDOR,nom masculin,"Étymologie : xvie siècle. Emprunté de l’espagnol corregidor, de même sens, lui-même dérivé de corregir, « corriger ».","Anciennement.
-En Espagne et dans les territoires soumis à la domination espagnole, premier officier de justice d’une ville ou d’une province, qui représentait le pouvoir royal et avait également d’importantes fonctions administratives.
-Le corrégidor et les alcades.
-Le corrégidor de Madrid, de Valence, de Cuzco.
-Dans « Le Mariage de Figaro », de Beaumarchais, le comte Almaviva est grand corrégidor d’Andalousie.",null
-89,0089,CORYPHÈNE,nom masculin,"Étymologie : xviiie siècle, coryphaena, puis coryphène. Emprunté du grec koruphaina, de même sens, lui-même dérivé de koruphê, « sommet, sommet de la tête », parce que, chez ce poisson, le mâle a un front proéminent qui donne une forme carrée à sa tête.","Grand poisson pélagique aux couleurs vives, commun dans les mers chaudes et dont la chair est très appréciée.
-Le coryphène peut se pêcher à la traîne ou au lancer.
-En apposition.
-Dans le langage courant, le coryphène est parfois appelé abusivement « daurade coryphène ».",null
-90,0090,COURRIEL,nom masculin,"Étymologie : xxe siècle. Mot québécois, composé à partir de courrier et d’électronique.","■ 
-Document numérique qu’un utilisateur saisit, envoie ou consulte en différé par l’intermédiaire d’un ordinateur connecté à un réseau (on dit aussi Message électronique).
-Recevoir des courriels professionnels, personnels.
-▪ Par extension.
-Service permettant de saisir, d’envoyer ou de consulter un tel document (on dit aussi Messagerie électronique ou Courrier électronique).
-Envoyer un curriculum vitae par courriel.
+La lettre A sert à noter une voyelle antérieure, comme dans sac, patte, là, ou postérieure, comme dans tas ou pâte ; dans ce second cas, sa prononciation est plus longue et plus grave.
+▪ Associée à d’autres lettres, la lettre A peut servir à noter différents phonèmes vocaliques : le e ouvert  [ɛ] comme dans laine, j’allais ou gamay, le e fermé  [e] comme dans j’allai, j’irai ou nævus, le o ouvert  [ɔ] comme dans centaure, le o fermé  [o] comme dans peau, la nasale  [ɑ̃] comme dans danser ou chambre, et la nasale  [ɛ̃] comme dans maintenir ou faim.
 
-RemarqueDoit être préféré à l’anglais Electronic mail et à son abréviation E-mail.",null
-91,0091,CRASSANE,nom féminin,Étymologie : xviie siècle. D’origine incertaine.,"Variété de poire d’hiver, à la peau gris-vert et à la chair fondante et parfumée.
-La crassane est aussi appelée « bergamote crassane ».
-En composition.
-Passe-crassane, voir ce mot.",null
-92,0092,CYTOSINE,nom féminin,"Étymologie : xxe siècle. Dérivé savant du grec kutos, « cavité, cellule ».","Marque de domaine : biochimie.
-Une des bases azotées constitutives des acides nucléiques.
-Dans une molécule d’A.D.N., une cytosine est toujours associée à une guanine.",null
-93,0093,DARMSTADTIUM,nom masculin,"Étymologie : xxie siècle. Dérivé de Darmstadt, la ville d’Allemagne où fut synthétisé cet élément.","Marque de domaine : chimie.
-Élément radioactif produit artificiellement (symbole : Ds ; numéro atomique : 110).
-Tous les isotopes connus du darmstadtium sont instables.",null
-94,0094,"DÉBATTEUR, DÉBATTEUSE",nom,Étymologie : xve siècle. Dérivé de débattre.,"Celui, celle qui, dans une discussion publique, sait développer ses arguments et contester ceux de ses contradicteurs.
-Un habile, un redoutable débatteur.
-Par extension.
-Personne qui participe à un débat public.",null
-95,0095,DÉCAPOLE,nom féminin,"Étymologie : xixe siècle. Emprunté du grec dekapolis, de même sens, lui-même composé de deka, « dix », et polis, « ville, cité ».","■ 
-Marque de domaine : histoire. Avec une majuscule.
-Désigne, à l’époque hellénistique, le regroupement de dix cités de culture grecque situées en Judée et en conflit avec leurs voisins, qui conserva une certaine autonomie lors de son rattachement à la province romaine de Syrie.
-Gadara était l’une des principales villes de la Décapole.
-▪ Par analogie.
-La décapole alsacienne, dans le Saint-Empire romain germanique, ligue de dix villes d’Alsace jouissant du statut de villes impériales, qui fut créée en 1354 et prit fin sous la Révolution française, lors de l’intégration complète de l’Alsace à la France.",null
-96,0096,DÉCATHLONIEN,nom masculin,Étymologie : xxe siècle. Dérivé de décathlon.,"Marque de domaine : sports.
-Athlète qui dispute les épreuves du décathlon.",null
-97,0097,DÉFORESTATION,nom féminin,"Étymologie : xixe siècle. Dérivé savant du latin médiéval forestis, « région boisée, forêt ».","Action de faire disparaître la forêt naturelle à des fins économiques, généralement en l’exploitant à l’excès ou en la transformant en terres agricoles, en plantations intensives ou en zones urbaines ; résultat de cette action.
-La déforestation sans frein de l’Amazonie.",null
-98,0098,DÉFRAIEMENT,nom masculin,Étymologie : xive siècle. Dérivé de défrayer.,"Action de défrayer une personne ; somme versée à quelqu’un en remboursement de ses frais de nourriture, d’entretien, de voyage, etc.
-Une indemnité de défraiement.
-Une somme forfaitaire sera allouée en défraiement des repas.
-Recevoir, toucher un défraiement.
-(On écrit parfois Défrayement, sans changer la prononciation.)",null
-99,0099,"DÉGÉNÉRATIF, DÉGÉNÉRATIVE",adjectif,Étymologie : xixe siècle. Dérivé de dégénérer.,"Marque de domaine : pathologie.
-Se dit d’une affection caractérisée par une dégénérescence.
-Les myopathies sont des maladies dégénératives qui touchent les muscles.",null
-100,0100,DÉLOCALISATION,nom féminin,Étymologie : xixe siècle. Dérivé de délocaliser.,"1. 
-Marque de domaine : administration.
-Action de délocaliser.
-La délocalisation de l’École polytechnique à Palaiseau.
-▪ Par extension.
-La délocalisation d’un procès pour éviter le risque de collusion.
-
-
-2. 
-Marque de domaine : économie.
-Transfert, par une entreprise, d’une partie de son activité dans un pays où les coûts sont moindres.
-L’annonce de la délocalisation de cette usine a suscité de vives protestations.
 
 3. 
-Marque de domaine : chimie.
-Délocalisation des électrons, le fait que certains électrons se déplacent d’un atome à l’autre au sein d’une molécule.
-La délocalisation des électrons rend la molécule plus stable.",null
-101,0101,DÉLOCALISER,verbe transitif,Étymologie : xixe siècle. Dérivé de localiser.,"1. 
-Marque de domaine : administration.
-Déplacer une administration en application de mesures de décentralisation ou de déconcentration.
-L’administration supérieure des Terres australes et antarctiques françaises a été délocalisée à la Réunion.
+Emplois conventionnels.
+A désigne ce qui est classé premier dans une série, une succession.
+L’équipe A.
+L’escalier A.
+Le bâtiment A.
+Il a eu la note A à son devoir de français.
+▪ La lettre A, majuscule ou minuscule, sert aussi de symbole ou d’abréviation.
+Marque de domaine : mathématiques.
+En algèbre, a désigne une quantité donnée.
+a + b.
+Expr. fig.
+Prouver, démontrer par a + b, avec une grande rigueur.
+En géométrie, A désigne un point de l’espace.
+La droite (AB).
+Le triangle ABC.
+– Marque de domaine : physique.
+A, symbole de l’ampère.
+
+– Marque de domaine : biologie.
+A désigne un groupe sanguin et une vitamine.
+A est aussi le symbole de l’adénine.
+
+– Marque de domaine : imprimerie.
+A suivi d’un chiffre sert à indiquer les dimensions d’une feuille de papier suivant une norme internationale.
+Une feuille de format A4, A3.
+
+– Marque de domaine : mesures.
+a, abréviation d’Are.
+
+– Marque de domaine : armes.
+Bombe A, abréviation de Bombe atomique.
+Les bombes A furent les premières bombes nucléaires.",2026-06-04T03:46:27.814Z
+A0002,A,A-,préfixe,"Étymologie : Issu du préverbe latin ad‑, exprimant un mouvement vers quelque chose, quelqu’un, ou le commencement d’une action.","■ 
+Préfixe qui indique un mouvement dans une direction, vers un lieu donnés, comme dans abaisser, aliter, ou le passage d’un état à un autre, comme dans amoindrir, apeurer.
+▪ A‑ peut aussi avoir une valeur inchoative, comme dans apercevoir.
+
+RemarqueDans certains mots formés au moyen du préfixe a‑, comme affaiblir, allonger, assainir, attendrir, la première lettre du radical se redouble.",2026-06-04T03:54:25.259Z
+A0003,A,A-,préfixe,"Étymologie : Emprunté du préfixe grec a‑, de même sens.","■ 
+Préfixe exprimant l’idée d’absence, de privation, souvent dit a- privatif, qu’on trouve par exemple dans amoral, asocial, apesanteur.
+(Devant une voyelle ou un h muet, a‑ devient an‑, comme dans anaérobie, anhydre.)",2026-06-04T03:59:08.123Z
+A0007,A,ABAISSE-LANGUE,nom masculin,"Étymologie : xixe siècle. Composé d’abaisse, forme conjuguée d’abaisser, et de langue.","Marque de domaine : médecine.
+Petite palette utilisée pour maintenir la langue d’un patient baissée lors de l’examen de sa bouche ou de sa gorge.",2026-06-04T03:59:08.250Z
+A0008,A,ABAISSEMENT,nom masculin,Étymologie : xiie siècle. Dérivé d’abaisser.,"1. 
+Action de faire descendre quelque chose, de le tirer vers le bas, ou de placer une chose à un niveau inférieur ; résultat de cette action.
+L’abaissement d’un rideau métallique, d’un levier.
+
+2. 
+Action de diminuer la hauteur, l’importance, la valeur d’une chose ; le fait que la hauteur, l’importance, la valeur d’une chose diminue ; l’état qui en résulte (dans ces deux derniers sens, on dit aussi Baisse).
+L’abaissement du mur nous permettra de jouir du paysage.
+L’abaissement de la colonne de mercure dans un baromètre.
+On prévoit un abaissement sensible de la température au cours de la semaine.
+Constater l’abaissement du niveau de vie.
+
+3. 
+Dans la langue soutenue.
+Action de diminuer la puissance, l’autorité, la dignité d’une personne, d’une entité ; résultat de cette action.
+Louis XI travailla à l’abaissement de la maison de Bourgogne.
+Il se révolte contre un si grand abaissement.
+
+4. 
+Le fait de s’humilier volontairement ; l’état qui en résulte.
+Se tenir dans l’abaissement devant Dieu.
+
+5. 
+Avilissement, déchéance morale.
+L’abaissement des mœurs.
+D’abaissement en abaissement, il perdra tout sens de l’honneur.",2026-06-04T03:59:08.305Z
+A0009,A,ABAISSER,verbe transitif direct et verbe pronominal,"Étymologie : xiie siècle. Dérivé de baisser, avec le préfixe a- [i].","1. 
+Faire descendre quelque chose, le tirer vers le bas ; placer une chose à un niveau inférieur.
+Abaisser un store.
+En cas de danger, abaissez la manette.
+Abaisser la barre dans une épreuve de saut en hauteur.
+▪ Spécialement. Marque de domaine : arithmétique.
+Abaisser un chiffre, à chaque étape d’une division posée, écrire au niveau de la différence que l’on vient d’obtenir le chiffre suivant du dividende.
+– Marque de domaine : géométrie.
+Abaisser une perpendiculaire, tracer une perpendiculaire à une droite ou à un plan passant par un point extérieur à cette droite ou à ce plan.
+
+– Marque de domaine : équitation.
+Abaisser les hanches d’un cheval, durant certains exercices de manège, lui faire plier les postérieurs pour qu’il ait la croupe plus basse que les épaules (on dit aussi Asseoir un cheval, Asseoir un cheval sur les hanches et, parfois, Rabaisser les hanches d’un cheval).
+
+
 ▪ Par extension.
-Pour éviter des troubles à l’ordre public, le juge décida de délocaliser le procès de cet infanticide.
+Incliner quelque chose en le dirigeant vers le bas.
+Abaisser son fusil par prudence.
+Il abaissa son regard sur la vallée.
 
 
 2. 
-Marque de domaine : économie.
-En parlant d’une entreprise, transférer une activité d’un pays vers un autre pour gagner en compétitivité.
-L’entreprise envisage de délocaliser ses ateliers.
+Diminuer la hauteur, l’importance, la valeur d’une chose.
+Abaisser une arche.
+Abaisser une note d’un demi-ton.
+Abaisser les prix.
+L’âge limite d’admission à cette école a été abaissé à trente ans.
+▪ Spécialement. Marque de domaine : cuisine.
+Amincir une pâte à tarte au moyen d’un rouleau à pâtisserie.
+– Marque de domaine : algèbre.
+Abaisser le degré d’une équation, d’un polynôme, les réduire à un degré inférieur.
+
+
+
+3. 
+Dans la langue soutenue.
+Diminuer la puissance, l’autorité, la dignité d’une personne, d’une entité.
+Richelieu s’est employé à abaisser les grands.
+Chercher à abaisser ses rivaux.
+La guerre civile a contribué à abaisser cet État.
+Par allusion à l’Évangile.
+Quiconque s’élève sera abaissé.
+
+4. 
+En parlant d’une action, d’une conduite.
+Avilir, déshonorer quelqu’un.
+Une telle démarche vous abaisserait.
+Ces méthodes abaissent ceux qui y recourent.",2026-06-04T03:59:08.483Z
+A0010,A,"ABAISSEUR, ABAISSEUSE",adjectif,Étymologie : xvie siècle. Dérivé d’abaisser.,"Qui sert à abaisser.
+Spécialement. Marque de domaine : anatomie.
+Muscle abaisseur, qui permet de faire descendre certaines parties du corps.
+Les muscles abaisseurs ont pour antagonistes les muscles élévateurs.
+Le muscle abaisseur de l’œil ou, elliptiquement et substantivement, l’abaisseur de l’œil.",2026-06-04T03:59:08.551Z
+A0012,A,ABANDON,nom masculin,"Étymologie : xiie siècle, mais probablement antérieur. Tiré de l’ancien français mettre, laissier a bandon, « livrer, laisser au pouvoir de », formé à l’aide de bandon, « pouvoir, autorité », dérivé de l’ancien francique *ban, qui désigne une loi dont la non-observance entraîne une peine, lui-même issu de la racine indo-européenne *fa, « parler ».","1. 
+Le fait de laisser ou de mettre quelque chose à la disposition, à la discrétion d’autrui.
+L’abandon d’un bien immobilier à son ex-conjoint, à titre de prestation compensatoire.
+Faire abandon d’une terre à un voisin.
+▪ Par extension.
+Le fait d’exposer, de livrer une chose, une personne au pouvoir de quelqu’un, de quelque chose.
+L’abandon d’une place à l’ennemi.
+L’abandon d’une population à l’envahisseur.
+
+
+2. 
+Le fait de renoncer à quelque chose définitivement, de mettre fin à une pratique, à une action, etc.
+L’abandon d’un projet, d’une stratégie militaire, d’une procédure judiciaire.
+La police a annoncé l’abandon des recherches.
+Il regrettera l’abandon de ses études.
+▪ Spécialement. Marque de domaine : sports.
+Action d’interrompre sa participation à une compétition.
+Sa blessure l’a contraint à l’abandon.
+Les températures caniculaires entraînèrent l’abandon de nombreux coureurs.
+Perdre par abandon.
+
+
+3. 
+Le fait de quitter un lieu où l’on devrait se trouver.
+L’abandon du domicile conjugal peut être un motif de divorce.
+Abandon de poste.
+
+4. 
+Le fait de se séparer d’un être dont on a la charge, de le laisser sans secours ni assistance.
+L’abandon d’un nourrisson sur les marches d’une église.
+Par métonymie.
+État d’un être livré à lui-même, laissé sans soin.
+Éprouver un sentiment d’abandon.
+Ce vieillard vit dans le plus complet abandon.
+Par analogie.
+Son jardin est dans un déplorable abandon.
+▪ Spécialement. Marque de domaine : droit.
+Abandon de famille, délit par lequel on se soustrait à certaines obligations envers ses enfants, son conjoint ou ses ascendants.
+L’abandon de famille est passible de la réclusion criminelle.
+
+▪ Loc.
+À l’abandon, sans soin, sans protection.
+Des chevaux laissés à l’abandon.
+Par analogie.
+Une grange à l’abandon.
+
+▪ Par extension.
+Action de se défaire d’une chose, pour toujours ou temporairement.
+L’abandon d’un véhicule sur la voie publique.
+
+
+5. 
+Le fait de se laisser aller sans contrainte ; l’état qui en résulte.
+Un élan d’abandon.
+Une pose pleine d’abandon.
+Parler avec abandon, avec confiance.
+Un délicieux abandon.",2026-06-04T03:59:08.658Z
+A0013,A,"ABANDONNÉ, ABANDONNÉE",adjectif,Étymologie : xiiie siècle. Tiré du participe passé d’abandonner.,"1. 
+Auquel on a renoncé ; qui n’est plus utilisé.
+Un mot, un usage abandonné.
+Un sentier abandonné.
+
+2. 
+Se dit d’un être dont on avait la charge et dont on s’est séparé, qu’on a laissé sans secours ni assistance.
+Un enfant abandonné.
+Un chien abandonné.
+Par analogie.
+Une vieille maison abandonnée.
+▪ Par extension.
+Se dit d’une chose dont on s’est défait, pour toujours ou temporairement.
+Un vélo abandonné dans la rue.
+
+
+3. 
+Qui se laisse aller sans contrainte.
+Il reposait sur son lit, abandonné.
+Par métonymie.
+Il avait la tête abandonnée sur l’épaule de sa bien-aimée.
+Une pose abandonnée.",2026-06-04T03:54:25.895Z
+A0014,A,ABANDONNEMENT,nom masculin,Étymologie : xiiie siècle. Dérivé d’abandonner.,"1. 
+État d’une personne abandonnée.
+Elle souffre moins de sa misère que de son abandonnement.
+
+2. 
+Le fait de se laisser aller sans contrainte.
+Il était sensible au charme de ses abandonnements.",2026-06-04T03:59:08.725Z
+A0015,A,ABANDONNER,verbe transitif direct et verbe pronominal,Étymologie : xie siècle. Dérivé d’abandon.,"1. 
+Laisser ou mettre quelque chose à la disposition, à la discrétion d’autrui.
+Abandonner son héritage à une association.
+Abandonner un droit.
+Abandonner tous ses biens à ses créanciers.
+Abandonner à un notaire la gestion de sa fortune.
+Nous avons abandonné cette pièce aux enfants.
+▪ Par extension.
+Exposer, livrer une chose, une personne au pouvoir de quelqu’un, de quelque chose.
+Abandonner une ville aux pillards, au pillage.
+Abandonner une barque au courant.
+Abandonner son esprit à la rêverie.
+Abandonner quelqu’un à son triste sort.
+Fig.
+Abandonner son âme à Dieu, la lui confier sans réserve.
+
+
+2. 
+Renoncer à quelque chose définitivement, mettre fin à une pratique, à une action, etc.
+Abandonner le pouvoir.
+Abandonner une charge.
+Il a fini par abandonner ses poursuites.
+Abandonner le cinéma pour le théâtre.
+Ce genre d’article ne se vend plus, nous en avons abandonné la fabrication.
+N’abandonnez pas le combat !
+Il veut tout abandonner.
 Absolument.
-Cette société va délocaliser.
+Sans résultat tangible, nous abandonnerons.
+Ce coureur cycliste a abandonné avant le col.
+▪ Expr.
+Abandonner la partie, convenir que l’on a perdu dans une compétition, un affrontement et, par extension, renoncer à sa participation à une entreprise.
+
 
 3. 
-Marque de domaine : chimie. Pron.
-S’emploie en parlant de certains électrons qui vont d’un atome à l’autre au sein d’une molécule.
-Dans un corps mésomère, les électrons se délocalisent.",null
-102,0102,"DÉNOTATIF, DÉNOTATIVE",adjectif,Étymologie : xxe siècle. Dérivé de dénotation.,"Marque de domaine : linguistique.
-Qui est relatif à la dénotation, par opposition à Connotatif.
-Le sens dénotatif d’un mot, d’une expression.",null
-103,0103,DÉPÉNALISATION,nom féminin,Étymologie : xxe siècle. Dérivé de dépénaliser.,"Action de dépénaliser.
-La dépénalisation d’un comportement ne le rend pas nécessairement légal.
-La dépénalisation controversée de l’usage des drogues douces.",null
-104,0104,DÉPÉNALISER,verbe transitif,Étymologie : xxe siècle. Dérivé de pénal.,"Ne plus soumettre une action, un comportement à une sanction pénale.
-L’émission de chèques sans provision a été dépénalisée mais demeure passible de sanctions civiles.
-L’homosexualité a été dépénalisée en France en 1982, phrase couramment employée pour évoquer l’abrogation des dispositions légales discriminatoires touchant les relations homosexuelles.",null
-105,0105,DIAZOTE,nom masculin,Étymologie : xxe siècle. Composé de di‑ et d’azote.,"Marque de domaine : chimie.
-Molécule constituée de deux atomes d’azote, de formule N2.
-Le diazote est plus souvent appelé azote dans le langage courant.
-À pression ambiante, le diazote devient liquide quand la température descend au-dessous de –195,79 °C.",null
-106,0106,DIDOT,nom masculin,"Étymologie : xviiie siècle. Tiré du nom de François-Ambroise Didot (1730-1804), imprimeur et créateur de ce caractère.","■ 
-Marque de domaine : typographie.
-Caractère à empattement filiforme, dont les pleins et les déliés offrent un fort contraste.
-Le didot a été le principal caractère employé au xixe siècle.
-▪ Avec une majuscule.
-Système Didot, système de mesure typographique que conçut François-Ambroise Didot.
-Point Didot, unité minimale de ce système, qui est égale à 0,3759 millimètre.
-Le cicéro vaut douze points Didot.",null
-107,0107,DIHYDROGÈNE,nom masculin,Étymologie : xxe siècle. Composé de di‑ et d’hydrogène.,"Marque de domaine : chimie.
-Molécule constituée de deux atomes d’hydrogène, de formule H2.
-Le dihydrogène est plus souvent appelé hydrogène dans le langage courant.
-Dans des conditions normales de température et de pression, le dihydrogène est un gaz inodore, incolore et inflammable.",null
-108,0108,DIOXYGÈNE,nom masculin,Étymologie : xxe siècle. Composé de di‑ et d’oxygène.,"Marque de domaine : chimie.
-Molécule constituée de deux atomes d’oxygène, de formule O2.
-Le dioxygène est plus souvent appelé oxygène dans le langage courant.
-L’atmosphère terrestre comprend 21 % de dioxygène.",null
-109,0109,DOGON,adjectif invariable en genre.,"Étymologie : xixe siècle. Mot dogon, de sens incertain.","■ 
-Relatif à un peuple d’agriculteurs installé dans une zone montagneuse du centre du Mali et du Nord du Burkina Faso, près du fleuve Niger.
-La plupart des villages dogons sont bâtis à flanc de falaise.
-L’art dogon.
-▪ Subst.
-Un Dogon, une Dogon.
-Le dogon, la langue de ce peuple, qui comporte de nombreux dialectes.",null
-110,0110,DRONE,nom masculin,"Étymologie : xxe siècle. Emprunté de l’anglais drone, de même sens, et, proprement, « faux bourdon », en raison du bruit que cet engin produit.","■ 
-Marque de domaine : militaire.
-Engin mobile sans équipage, le plus souvent aérien, et qui peut être soit programmé, soit télécommandé.
-Le drone, à la différence du missile, est réutilisable.
-Les drones sont équipés d’armes ou de systèmes de collecte d’informations.
-Certains drones sous-marins permettent de détecter les mines.
-▪ 
-Par extension.
-Surveiller des manifestations, pulvériser des insecticides, inspecter des lignes à haute tension au moyen d’un drone.",null
-111,0111,DUBNIUM,nom masculin,"Étymologie : xxe siècle. Dérivé de Dubna, ville de Russie où se trouve un important laboratoire de recherche nucléaire.","Marque de domaine : chimie.
-Élément artificiel fortement radioactif (symbole : Db ; numéro atomique : 105).
-Découvert en 1967 en Union soviétique, cet élément a reçu plusieurs autres noms avant qu’un accord international retienne le nom de dubnium, en 1997.",null
-112,0112,EMBOULER,verbe transitif,"Étymologie : xixe siècle. Dérivé de boule ou de bouler, avec influence de l’espagnol embolar, de même sens.","■ 
-Marque de domaine : tauromachie.
-Munir les cornes d’un taureau d’embouts de forme arrondie pour les rendre moins dangereuses.
-L’habitude d’embouler les cornes s’est répandue au milieu du xixe siècle, quand la corrida s’est diffusée hors de l’Espagne.
-Par métonymie.
-Embouler un taureau.
-▪ 
-Au participe passé, adjectivement.
-Une vachette aux cornes emboulées.",null
-113,0113,EMPORT,nom masculin,Étymologie : xvie siècle. Déverbal d’emporter.,"Action d’emporter.
-S’emploie surtout aujourd’hui, dans les domaines aéronautique et astronautique, dans la locution Capacité d’emport, charge utile d’un avion, d’une fusée.
-Une capacité d’emport de vingt tonnes.",null
-114,0114,ÉNANTIOMÈRE,nom masculin,"Étymologie : xxe siècle. Composé d’énantio‑, tiré du grec enantios, « contraire, opposé », et de ‑mère, tiré du grec meros, « partie ».","Marque de domaine : biochimie.
-Chacun des deux isomères chiraux d’une molécule.
-Une des molécules tirées du cumin possède deux énantiomères, dont l’un sent le menthol et l’autre le fenouil.",null
-115,0115,ENDOGAMIQUE,adjectif,Étymologie : xixe siècle. Dérivé d’endogamie.,"Qui est relatif à l’endogamie, qui en a les caractéristiques.
-Un mariage endogamique.",null
-116,0116,ENZYMOLOGIE,nom féminin,"Étymologie : xixe siècle. Composé à l’aide d’enzyme et de ‑logie, tiré du grec logos, « étude ; discours, traité ».","Marque de domaine : biochimie.
-Science qui étudie les enzymes et leur activité catalytique.",null
-117,0117,ÉPIGYNE,adjectif,"Étymologie : xixe siècle. Composé d’épi‑ et de ‑gyne, tiré du grec gunê, « femme ».","Marque de domaine : botanique.
-Se dit d’une partie de la fleur qui est insérée au-dessus de l’ovaire.
-Par métonymie.
-Se dit d’une fleur dont le calice, la corolle et les étamines sont disposés de la sorte, ou de la plante qui porte de telles fleurs.
-La fleur épigyne des groseilliers.
-De nombreuses plantes de la famille des Rosacées sont épigynes.",null
-118,0118,ÉQUIPROBABLE,adjectif,Étymologie : xxe siècle. Composé d’équi‑ et de probable.,"Marque de domaine : statistiques.
-Se dit d’évènements qui ont la même probabilité de se réaliser.
-Dans le jeu de pile ou face, les chances de tirer pile ou de tirer face sont équiprobables.",null
-119,0119,"ÉRYTHRÉEN, ÉRYTHRÉENNE",adjectif,"Étymologie : xixe siècle. Dérivé d’Érythrée, nom géographique.","Relatif à l’Érythrée, à ses habitants.
-L’État érythréen.
-La guerre d’indépendance érythréenne contre l’Éthiopie.
-Subst.
-Un Érythréen, une Érythréenne.",null
-120,0120,EXOPLANÈTE,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais exoplanet, lui-même forme abrégée de extrasolar planet, de même sens.","Marque de domaine : astronomie.
-Planète qui se situe hors du système solaire et qui tourne autour d’une étoile.",null
-121,0121,FILIALISER,verbe transitif,Étymologie : xxe siècle. Dérivé de filiale.,"Marque de domaine : droit. Marque de domaine : finances.
-Créer, au sein d’une entreprise, une ou plusieurs filiales ; transférer tout ou partie de son activité à une ou des filiales déjà existantes.
-Cette maison d’édition a filialisé son secteur de distribution.",null
-122,0122,FORTUITÉ,nom féminin,Étymologie : xve siècle. Dérivé de fortuit.,"■ 
-Caractère de ce qui est fortuit, survient de façon imprévisible (rare).
-▪ Spécialement.
-Faculté de discerner l’intérêt, la portée d’observations faites par hasard et sortant du cadre initial d’une recherche (s’emploie surtout dans le domaine des sciences).
-La fortuité est aussi désignée par le mot « sérendipité », emprunté de l’anglais.
-La découverte de la pénicilline, dont Fleming observa l’effet destructeur sur les staphylocoques dans une culture oubliée et emplie de moisissures, est le fruit de la fortuité.",null
-123,0123,GANACHE,nom féminin,Étymologie : xxe siècle. D’origine inconnue.,"Marque de domaine : cuisine.
-Garniture à base de chocolat fondu et de crème fraîche utilisée en pâtisserie, en confiserie et en chocolaterie.
-Incorporez la ganache au mélange, puis réservez.
-En apposition.
-Tarte aux poires à la crème ganache.",null
-124,0124,GLUCAGON,nom masculin,"Étymologie : xxe siècle. Composé à l’aide de gluc(o)‑ et du grec agôn, participe présent de agein, « amener », parce que cette hormone apporte du sucre à l’organisme.","Marque de domaine : physiologie.
-Hormone produite par le pancréas et qui favorise la libération de glucose dans le sang.
-Le glucagon joue un rôle contraire à celui de l’insuline dans la régulation de la glycémie.",null
-125,0125,GLUTAMINE,nom féminin,Étymologie : xxe siècle. Dérivé de glutamique.,"Marque de domaine : biochimie.
-Acide aminé qui intervient dans le métabolisme de l’azote.",null
-126,0126,GRAVETTIEN,nom masculin,"Étymologie : xxe siècle. Dérivé de La Gravette, hameau de Dordogne, où l’on a trouvé de nombreux outils de cette période.","Marque de domaine : préhistoire.
-Période du Paléolithique comprise entre l’Aurignacien et le Solutréen, au cours de laquelle s’est développée une culture caractérisée par un outillage de fines pointes de silex et par des représentations de femmes connues sous le nom de « Vénus ».
-La « Vénus de Lespugue », sculptée dans de l’ivoire de mammouth, date du Gravettien.
-Adjectivement.
-Une industrie gravettienne.",null
-127,0127,HASSIUM,nom masculin,"Étymologie : xxe siècle. Dérivé du latin médiéval Hassia, désignant la région allemande de la Hesse.","Marque de domaine : chimie.
-Élément métallique radioactif artificiel (symbole : Hs ; numéro atomique : 108).
-L’isotope le plus stable connu du hassium a une période de vie de trente secondes.",null
-128,0128,HEPTATHLON,nom masculin,"Étymologie : xxe siècle. Composé, sur le modèle de pentathlon, de hept(a)‑ et d’athlon, tiré du grec athlon, « récompense, prix d’un combat, lutte ».","Marque de domaine : sports.
-Compétition féminine d’athlétisme comportant sept épreuves.
-Le saut en hauteur, le lancer de javelot et la course de huit cents mètres comptent parmi les épreuves de l’heptathlon.
-Par extension.
-Compétition masculine qui comprend sept épreuves et se déroule en salle.",null
-129,0129,"HEPTATHLONIEN, HEPTATHLONIENNE",nom,Étymologie : xxe siècle. Dérivé d’heptathlon.,"Marque de domaine : sports.
-Athlète qui dispute les épreuves de l’heptathlon.",null
-130,0130,HEXANE,nom masculin,"Étymologie : xixe siècle. Composé à l’aide d’hex(a)‑ et de ‑ane, élément indicatif des hydrocarbures.","Marque de domaine : chimie.
-Hydrocarbure saturé de formule C6H14.
-L’hexane est un solvant très toxique utilisé en chimie organique.",null
-131,0131,HYDROXYLE,nom masculin,"Étymologie : xixe siècle. Composé à l’aide d’hydr(o), d’‑oxy‑ et de ‑yle, tiré du grec hulê, « bois », puis « matière ».","Marque de domaine : chimie.
-Radical monovalent formé d’un atome d’oxygène et d’un atome d’hydrogène.
-Les hydroxyles sont caractéristiques des alcools et des phénols.
-En apposition.
-Groupe hydroxyle.",null
-132,0132,INDIUM,nom masculin,"Étymologie : xxe siècle. Dérivé d’indigo, parce qu’une raie du spectre de ce métal est de cette couleur.","Marque de domaine : chimie.
-Métal blanc argenté, mou et ductile (symbole : In ; numéro atomique : 49 ; masse atomique : 114,818).
-L’indium est utilisé dans la couche conductrice des écrans tactiles.",null
-133,0133,IN MEMORIAM,locution adverbiale,"Étymologie : xxe siècle. Locution latine, signifiant « à la mémoire (de) ».","S’emploie pour évoquer la mémoire d’un mort.
-En souvenir.
-Pour les victimes de l’attentat, in memoriam.
-Sur certaines stèles funéraires, l’inscription « in memoriam » figure au-dessus du nom des défunts.
-Adjectivement.
-Une messe in memoriam.",null
-134,0134,INSOLER,verbe transitif,"Étymologie : xviie siècle. Emprunté du latin insolare, « exposer au soleil ».","Marque de domaine : technique.
-Exposer à une source lumineuse.
-Insoler une couche de gélatine lors d’une phototypie.",null
-135,0135,INTERNAUTE,nom,"Étymologie : xxe siècle. Dérivé d’internet, sur le modèle d’astronaute.","Celui, celle qui utilise l’internet, consulte des sites de la Toile.
-Publier les réactions des internautes.",null
-136,0136,"KOSOVAR, KOSOVARE",adjectif,"Étymologie : xxe siècle. Dérivé de Kosovo, nom géographique.","Relatif au Kosovo, à ses habitants.
-Subst.
-Un Kosovar, une Kosovare.
-(On trouve aussi, moins souvent, Kossovien.)",null
-137,0137,LANCE-HARPON,nom masculin,"Étymologie : xxe siècle. Composé de lance, forme conjuguée de lancer, et de harpon.","Marque de domaine : pêche.
-Instrument qui permet de projeter un harpon vers une cible, à une grande distance.
-Surtout en apposition.
-Fusil lance-harpon.
-Les canons lance-harpons furent inventés à la fin du xixe siècle pour la chasse aux grands cétacés.",null
-138,0138,MARGINALITÉ,nom féminin,Étymologie : xxe siècle. Dérivé de marginal.,"Situation d’une personne, d’un groupe de personnes se trouvant à l’écart de la société par nécessité ou par choix.
-Vivre dans la marginalité, sortir de la marginalité.",null
-139,0139,MEITNERIUM,nom masculin,Étymologie : xxe siècle. Dérivé du nom de la physicienne autrichienne Lise Meitner (1878-1968).,"Marque de domaine : chimie.
-Élément métallique radioactif créé artificiellement (symbole : Mt ; numéro atomique : 109).",null
-140,0140,MÉLATONINE,nom féminin,"Étymologie : xxe siècle. Composé de méla‑, tiré du grec melas, « noir », et de ‑tonine, tiré de tonique.","Marque de domaine : physiologie.
-Hormone produite par l’épiphyse et qui permet en particulier à l’organisme de régler son activité sur un rythme circadien.
-La prise de mélatonine de synthèse lors d’un voyage peut limiter les désagréments causés par le décalage horaire.",null
-141,0141,"MÉMORIEL, MÉMORIELLE",adjectif,Étymologie : xxe siècle. Dérivé de mémoire I.,"Relatif à la mémoire, au passé d’un pays, d’un peuple, d’un groupe social.
-Beaucoup d’historiens contestent le principe des lois mémorielles.",null
-142,0142,MÉTHYLATION,nom féminin,Étymologie : xxe siècle. Dérivé de méthyle.,"Marque de domaine : biochimie.
-Ajout d’un méthyle à une molécule.
-La méthylation d’un acide aminé, de la morphine.",null
-143,0143,MULTIRÉCIDIVISTE,nom,Étymologie : xxe siècle. Composé de multi‑ et de récidiviste.,"Marque de domaine : droit.
-Délinquant déjà condamné une première fois pour récidive et qui commet une ou plusieurs nouvelles infractions de même nature.
-Le tribunal a prononcé une lourde peine contre ce multirécidiviste.
-Adjectivement.
-Un voleur multirécidiviste.",null
-144,0144,NANOTECHNOLOGIE,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais nanotechnology, de même sens, lui-même composé de nano‑, « nano‑ », et technology, « technologie ».","Le plus souvent au pluriel.
-Technique relative à la création et à la production d’objets ou de matériaux à l’échelle du nanomètre.
-Les nanotechnologies permettent de fabriquer des tubes en carbone extrêmement fins et résistants.",null
-145,0145,NEUTROPHILE,adjectif,"Étymologie : xxe siècle. Composé à l’aide de neutre et de ‑phile, tiré du grec philos, « ami ».","1. 
-Marque de domaine : écologie.
-Se dit d’une espèce végétale qui se développe sur un sol au pH proche de 7.
-La parisette est une plante neutrophile.
-▪ Par extension.
-Qui vit sur un substrat neutre, dans un environnement neutre.
-Une bactérie, un champignon neutrophiles.
-
-
-2. 
-Marque de domaine : histologie.
-Leucocyte neutrophile, globule blanc polynucléaire dont les granulations cytoplasmiques fixent peu les colorants acides et basiques.",null
-146,0146,NUMINEUX,nom masculin,"Étymologie : xxe siècle. Traduction de l’allemand (das) Numinose, « (le) sacré », mot créé par le philosophe et historien des religions Rudolf Otto (1869-1937), lui-même tiré du latin numen, « puissance agissante de la divinité ».","Didact.
-Le sacré en tant qu’expérience sensible insaisissable par des moyens rationnels.
-Le numineux suscite à la fois terreur et fascination.
-Adjectivement.
-Une vision numineuse.",null
-147,0147,OCYTOCINE,nom féminin,"Étymologie : xxe siècle. Emprunté du grec ôkutokos, « qui facilite l’accouchement », lui-même composé de ôkus, « prompt, rapide », et tokos, « accouchement ».","Marque de domaine : physiologie.
-Hormone produite par l’hypothalamus, qui provoque les contractions utérines lors de la parturition, stimule la lactation et intervient dans les comportements sociaux.",null
-148,0148,"PENTATHLONIEN, PENTATHLONIENNE",nom,Étymologie : xxe siècle. Dérivé de pentathlon.,"Marque de domaine : sports.
-Athlète qui dispute les épreuves du pentathlon.",null
-149,0149,ACOUPHÈNE,nom masculin,"Étymologie : xxe siècle. Composé à partir du grec akouein, « entendre », et phainesthai, « paraître ».","Marque de domaine : pathologie.
-Sensation auditive incommodante qu’une personne perçoit en l’absence de tout stimulus sonore.
-Les acouphènes peuvent prendre la forme de bourdonnements, de sifflements, de tintements.",null
-150,0150,"ADDICTIF, ADDICTIVE",adjectif,Étymologie : xxe siècle. Dérivé d’addiction.,"Marque de domaine : psychopathologie.
-Relatif à l’addiction ; qui entraîne une addiction.
-Un comportement addictif.
-La nicotine est une substance addictive.",null
-151,0151,ADDICTION,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais addiction, de même sens, lui-même dérivé du latin addictus, « qui s’adonne à ».","Marque de domaine : psychopathologie.
-État de dépendance à l’égard d’une drogue, d’un produit nocif et, par extension, d’une activité dont la pratique à l’excès est nuisible.
-Addiction à la cocaïne, à l’héroïne.
-Une addiction à l’alcool.
-Addiction aux jeux de hasard, aux jeux vidéo.",null
-152,0152,ALTIMÉTRIQUE,adjectif,Étymologie : xixe siècle. Dérivé d’altimétrie.,"Relatif à l’altimétrie ou à un altimètre.
-Indications altimétriques.
-Calage altimétrique, voir Calage II.
-Par métonymie.
-Les satellites altimétriques permettent de mesurer précisément les variations du niveau des mers.",null
-153,0153,"AMAZONIEN, AMAZONIENNE",adjectif,"Étymologie : xiiie siècle, au sens de « relatif aux Amazones » ; xvie siècle, au sens actuel. Dérivé du nom du fleuve Amazone, lui-même emprunté du tupi amasumu, « grande vague ».","Relatif au fleuve Amazone et à l’Amazonie.
-Le bassin amazonien.
-La forêt amazonienne.
-En 1936, Claude Lévi-Strauss observa pendant six mois la tribu amazonienne des Nambikwara, afin d’étudier leur vie familiale et sociale.",null
-154,0154,ARGENTIQUE,adjectif,Étymologie : xixe siècle. Dérivé d’argent.,"■ 
-Se dit d’une préparation pharmaceutique ou chimique qui contient de l’argent.
-Les pommades argentiques possèdent des vertus antiseptiques.
-Une pellicule photographique recouverte d’une émulsion argentique.
-▪ Par extension. Marque de domaine : photographie.
-Se dit de la technique qui fixe une image sur une surface rendue sensible à la lumière grâce à des sels d’argent.
-La photographie argentique et la photographie numérique.
-Par métonymie.
-Un appareil photographique argentique.",null
-155,0155,AROBASE,nom féminin,"Étymologie : xxe siècle. Emprunté de l’espagnol arroba, nom d’une unité de capacité espagnole et portugaise, lui-même emprunté de l’arabe al-roub, « le quart ».","Signe typographique en forme de a cursif minuscule qui se prolonge en s’enroulant autour de lui-même (@), et qui sert notamment à séparer, dans les adresses de courrier électronique, le nom de l’utilisateur et celui du service de messagerie.",null
-156,0156,ATEMPORALITÉ,nom féminin,"Étymologie : xxe siècle. Dérivé d’atemporel, sur le modèle de temporalité.",Caractère de ce qui est atemporel.,null
-157,0157,AUDIOPHONE,nom masculin,"Étymologie : xixe siècle, audiphone, puis audiophone. Composé d’audio‑ et de ‑phone, tiré du grec phônê, « son, voix ».","Petit appareil que l’on adapte à l’oreille et qui est destiné à compenser les pertes d’audition (on dit aussi Prothèse auditive).
-RemarqueDoit être préféré au nom de marque Sonotone.",null
-158,0158,BOTRYTIS,nom masculin,"Étymologie : xixe siècle. Mot du latin scientifique, formé à partir du grec botruitês, « en forme de grappe », parce que les spores de ce champignon sont regroupées en grappes.","Marque de domaine : botanique.
-Champignon ascomycète qui se développe sur la vigne et les arbres fruitiers.
-Une espèce de botrytis est à l’origine de la muscardine, une autre est cause de la pourriture grise et de la pourriture noble.",null
-159,0159,CANOPÉE,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais canopy, de même sens et, proprement, « dais », lui-même emprunté du français liturgique conopée, qui désigne un voile couvrant le tabernacle.","Marque de domaine : géographie.
-Étage supérieur de la forêt, qui reçoit directement le rayonnement solaire.
-Dans les forêts tropicales humides, la plupart des espèces animales vivent dans la canopée.",null
-160,0160,CÉDÉROM,nom masculin,"Étymologie : xxe siècle. Tiré de l’anglais CD-ROM, sigle de compact disc read-only memory, de même sens.","Marque de domaine : informatique.
-Disque compact à mémoire morte, sur lequel des données numériques sont enregistrées sans qu’il soit possible de les modifier.",null
-161,0161,COLORIMÉTRIQUE,adjectif,Étymologie : xixe siècle. Dérivé de colorimétrie.,"1. 
-Marque de domaine : physique.
-Relatif aux méthodes et aux techniques qui servent à mesurer les indices caractérisant une couleur.
-L’analyse colorimétrique d’un tableau avant sa restauration.
-▪ Spécialement. Marque de domaine : médecine.
-Index ou indice colorimétrique, qui représente la quantité d’hémoglobine par globule rouge, et qui permet de la comparer à la quantité normale.
-
-
-2. 
-Marque de domaine : chimie.
-Qui se rapporte à la méthode d’analyse quantitative d’une substance au moyen d’un colorimètre.
-Le dosage colorimétrique d’une solution.",null
-162,0162,COLORISATION,nom féminin,"Étymologie : xxe siècle. Emprunté de l’anglais des États-Unis colorization, de même sens, lui-même dérivé de color, « couleur ».","Marque de domaine : cinéma.
-Marque de domaine : télévision.
-Action de coloriser un film ; résultat de cette action.",null
-163,0163,COLORISER,verbe transitif,"Étymologie : xxe siècle. Emprunté de l’anglais des États-Unis to colorize, de même sens, lui-même dérivé de color, « couleur ».","Marque de domaine : cinéma.
-Marque de domaine : télévision.
-Mettre en couleurs un film qui était à l’origine en noir et blanc.
-Au participe passé, adjectivement.
-Regarder un film dans sa version colorisée, en version colorisée.",null
-164,0164,"COMPASSIONNEL, COMPASSIONNELLE",adjectif,Étymologie : xxe siècle. Dérivé de compassion.,"Relatif à la compassion ; qui suscite ou cherche à susciter la compassion.
-Une rhétorique compassionnelle.",null
-165,0165,"ENVIRONNEMENTAL, ENVIRONNEMENTALE",adjectif,Étymologie : xxe siècle. Dérivé d’environnement.,"Relatif à un environnement, à l’environnement.
-Critères environnementaux.
-Le facteur environnemental.",null
-166,0166,ESSUIE-TOUT,nom masculin invariable,"Étymologie : xxe siècle. Composé d’essuie, forme conjuguée d’essuyer, et du pronom indéfini tout.","Papier à usage domestique, absorbant et épais, qui se présente en rouleau.
-RemarqueDoit être préféré au nom de marque Sopalin.",null
-167,0167,EXOSQUELETTE,nom masculin,Étymologie : xixe siècle. Composé d’exo‑ et de squelette.,"1. 
-Marque de domaine : zoologie.
-Structure externe du corps de certains invertébrés ou de certains organismes unicellulaires, jouant un rôle de soutien et de protection (on dit aussi Squelette externe).
-La coquille de l’escargot est un exosquelette.
-L’exosquelette des Insectes est composé de chitine.
-
-2. 
-Structure, souvent motorisée, recouvrant le corps ou les membres d’une personne et qui lui permet d’effectuer certains mouvements, certaines actions ou qui lui sert de protection.
-Grâce à l’exosquelette, des paraplégiques retrouvent une partie de leur mobilité.
-Un exosquelette militaire qui augmente la vitesse du soldat.",null
-168,0168,FAIRWAY,nom masculin,"Étymologie : xxe siècle. Mot anglais, composé de fair, « honnête, franc », et way, « chemin ».","Marque de domaine : golf.
-Partie du parcours où l’herbe est entretenue et que suivent les joueurs pour aller d’un trou à l’autre.
-Le fairway est bordé par le rough.",null
-169,0169,GARDE-FRONTIÈRE,nom,Étymologie : xixe siècle. Composé de garde‑ et de frontière.,"Militaire ou policier qui veille au respect des règles relatives aux déplacements des personnes d’un État ou d’un ensemble d’États à un autre.
-Le corps européen des garde-frontières et des garde-côtes.",null
-170,0170,GENTILÉ,nom masculin,"Étymologie : xviiie siècle. Emprunté du latin gentile, « de gens », dans l’expression gentile nomen, « nom de gens », lui-même dérivé de gens, « race, famille, peuple ».","Nom donné aux natifs et aux habitants d’une commune, d’une région, d’un pays, etc., formé à partir du nom de ces derniers.
-Les gentilés s’écrivent avec une majuscule à l’initiale.
-« Bourguignon » est le gentilé des habitants de la Bourgogne.
-Saint-Denis a pour gentilé « Dionysien », par référence à l’origine grecque de « Denis ».",null
-171,0171,GÉOLOCALISATION,nom féminin,Étymologie : xxe siècle. Composé de géo‑ et de localisation.,"Ne s’emploie guère que dans la locution Géolocalisation par satellite ou, par abréviation, G.P.S., système qui permet de localiser avec précision un point à la surface de la Terre grâce aux signaux émis par plusieurs satellites et reçus en ce point ; par métonymie, appareil muni d’un tel système.
-L’utilisation militaire de la géolocalisation par satellite.
-Un véhicule équipé d’un G.P.S.",null
-172,0172,GERMANITÉ,nom féminin,"Étymologie : xxe siècle. Dérivé de germain II, sur le modèle de latinité.","1. 
-Caractère de ce qui est allemand.
-
-2. 
-Ensemble des caractères communs aux pays, aux peuples de langue et de civilisation germaniques.
-Par métonymie.
-L’ensemble de ces pays, de ces peuples.",null
-173,0173,GLUCOSIDE,nom masculin,Étymologie : xixe siècle. Dérivé de glucose.,"Marque de domaine : biochimie.
-Nom générique donné aux substances végétales dans lesquelles entre du glucose.
-Les feuilles de l’indigotier contiennent du glucoside.",null
-174,0174,GRAPPA,nom féminin,"Étymologie : xxe siècle. Mot italien, emprunté du lombard grapa, « rafle de raisin ».","Eau-de-vie de marc de raisin produite en Italie du Nord.
-Une bouteille de grappa.
-La grappa de Bassano.
-Boire un verre de grappa ou, elliptiquement, une grappa.",null
-175,0175,’HALAL,adjectif invariable,"Étymologie : xxe siècle. Mot arabe, signifiant « licite, permis par la loi coranique ».","Se dit de la viande d’un animal abattu conformément au rite musulman.
-Du bœuf, de l’agneau halal.
-Par métonymie.
-Une boucherie halal.",null
-176,0176,HÉTÉRONYME,adjectif et nom masculin,"Étymologie : xixe siècle. Composé d’hétér(o)‑ et d’‑onyme, tiré du grec onoma, « nom », sur le modèle d’homonyme.","1. 
-Adj. Marque de domaine : linguistique.
-Se dit d’un mot qui forme avec d’autres une unité sémantique sans qu’ils aient la même racine.
-« Curé » est hétéronyme d’« évêque » et de « vicaire ».
-« Frère », « sœur », « cousin », « oncle » sont des noms hétéronymes ou, subst., au masculin, des hétéronymes.
-▪ Se dit aussi d’un terme considéré comme à peu près équivalent à un autre dans une langue différente.
-L’anglais « snow » et le français « neige » sont hétéronymes ou, subst., au masculin, sont des hétéronymes.
-
-
-2. 
-N. m. Marque de domaine : littérature.
-Nom d’emprunt qu’un écrivain s’efforce de doter d’une existence réelle, notamment en lui attribuant une biographie et une œuvre distinctes des siennes.
-Les hétéronymes de Fernando Pessoa.
-Émile Ajar fut un des hétéronymes de Romain Gary.",null
-177,0177,HÉTÉRONYMIE,nom féminin,Étymologie : xxe siècle. Dérivé d’hétéronyme.,"Marque de domaine : linguistique.
-Caractère de plusieurs mots hétéronymes.",null
-178,0178,HYPERTENSEUR,adjectif masculin,Étymologie : xxe siècle. Tiré d’hypertension.,"Marque de domaine : médecine.
-Qui provoque une augmentation de la tension artérielle.
-Un médicament hypertenseur ou, elliptiquement et subst., un hypertenseur.
-La réglisse a des effets hypertenseurs.
-(On dit aussi Hypertensif.)",null
-179,0179,HYPOCHLOREUX,adjectif masculin,Étymologie : xixe siècle. Composé à l’aide d’hypo‑ et de chlore.,"Marque de domaine : chimie.
-Se dit de l’oxacide du chlore qui contient le moins d’oxygène, de formule HOCl, et de l’anhydride Cl2O correspondant.",null
-180,0180,LARSEN,nom masculin,"Étymologie : xxe siècle. Tiré du nom du physicien danois Soeren Absalon Larsen (1871-1957), qui fut le premier à décrire ce phénomène.","Marque de domaine : acoustique.
-Phénomène de rétroaction positive parasite qui se produit lorsque l’entrée et la sortie d’une chaîne électro-acoustique sont trop proches l’une de l’autre, et qui se manifeste par un sifflement strident désagréable à l’oreille ; par métonymie, ce sifflement lui-même.
-(On dit aussi Effet Larsen.)",null
-181,0181,MÉCOUPURE,nom féminin,Étymologie : xxe siècle. Composé de mé‑ et de coupure.,"Marque de domaine : linguistique.
-Formation d’un mot qui résulte d’un découpage phonétique fautif entre deux termes, en particulier entre le substantif et son déterminant.
-Le nom « griotte » est tiré, par mécoupure, de « l’agriotte ».
-« Nombril » est issu, par mécoupure, d’« un omblil ».",null
-182,0182,MÉTASTABLE,adjectif,Étymologie : xxe siècle. Composé de méta‑ et de stable.,"Marque de domaine : chimie. Marque de domaine : physique.
-Se dit d’un système qui, sans être stable, semble tel en raison d’une très faible vitesse de réaction ou de transformation.
-Le diamant, qui se forme naturellement dans les profondeurs de la Terre, est métastable quand il est en surface.",null
-183,0183,NECTARIFÈRE,adjectif,"Étymologie : xixe siècle. Composé de nectar et de ‑fère, tiré du latin ferre, « porter, contenir ».","Marque de domaine : botanique.
-Qui sécrète du nectar.
-Glande nectarifère.",null
-184,0184,NEUVAIN,nom masculin,Étymologie : xvie siècle. Dérivé de neuf I.,"Marque de domaine : prosodie.
-Strophe ou poème de neuf vers.
-Les neuvains de la « Nuit de décembre », d’Alfred de Musset.",null
-185,0185,"PARTICIPATIF, PARTICIPATIVE",adjectif,Étymologie : xixe siècle. Dérivé de participation.,"1. 
-Marque de domaine : économie.
-Qui concerne une participation à un capital.
-Un prêt participatif accordé à une entreprise.
-
-2. 
-Auquel tout le monde peut prendre part.
-Financement participatif.
-Mouvement participatif.
-Démocratie participative.",null
-186,0186,PASHTÔ,nom masculin,"Étymologie : xixe siècle. Emprunté de l’anglais pashto, issu du pashtô parsuwa, « (le) perse », lui-même dérivé de Parsu, « Perse ».","Marque de domaine : linguistique.
-Langue indo-européenne du groupe iranien oriental, parlée en Afghanistan (on écrit aussi Pachto ; on dit aussi Pachtou ou Afghan).
-Le pashtô s’écrit en caractères arabes.",null
-187,0187,PASHTOÛN,adjectif,"Étymologie : xixe siècle. Emprunté de l’anglais pashtoun, issu du pashtô Parswana, « Perses », lui-même dérivé de Parsu, « Perse ».","Relatif au peuple qui constitue la plus grande partie de la population vivant en Afghanistan et dans la partie limitrophe du Pakistan.
-Les traditions pashtoûnes.
-Subst.
-Un Pashtoûn, une Pashtoûne, un membre de ce peuple.",null
-188,0188,"PRÉPALATAL, PRÉPALATALE",adjectif,Étymologie : xxe siècle. Composé de pré‑ et de palatal.,"Marque de domaine : phonétique.
-Se dit d’un phonème dont le point d’articulation se situe en avant de la voûte du palais.
-En français, « ch » et « j » sont des consonnes prépalatales ou, subst., des prépalatales.
-(On dit aussi Chuintant.)",null
-189,0189,PROTENTION,nom féminin,"Étymologie : xxe siècle. Emprunté du latin protensio, « extension, développement », lui-même dérivé de protendere, « tendre en avant, étendre ».","Marque de domaine : philosophie.
-Dans la pensée de Husserl, mouvement intentionnel de l’attention qui anticipe sur la perception de l’impression originaire du présent et qui se lie, dans un même flux de conscience et de façon indissociable, à la rétention.",null
-190,0190,FRACTANCE,nom féminin,"Étymologie : xxe siècle. Tiré du latin tardif fractura, « fragment, fracture », lui-même dérivé de fractare, fréquentatif de frangere « briser ».","Marque de domaine : mathématiques.
-Dérivation aléatoire d’un ensemble topologique cohérent de cordes homothétiques.
-Fractances de Hulk.",null
-191,0191,BRADURION,nom masculin,"Étymologie : xvie siècle. Composé à partir du grec bradus, « lent », et du latin durus, « dur, solide ».","Vieilli.
-Système formé d’un double patin de bois dur fixé sur chacune des roues d’un chariot, permettant de freiner plus efficacement les véhicules les plus pesants, qui était surtout utilisé dans les armées.
-Le bradurion est une invention contemporaine du développement de l’artillerie de campagne.",null
-192,0192,AUTOÉDITER,verbe transitif,Étymologie : xxe siècle. Composé d’auto‑ et d’éditer.,"Éditer à ses frais un ouvrage que l’on a écrit sans faire appel à un éditeur.
-Ce poète autoédite ses œuvres.
-Au participe passé, adjectivement.
-Un livre autoédité.
-Pron.
-Grâce à l’impression numérique, beaucoup d’auteurs peuvent s’autoéditer.",null
-193,0193,AUTOÉDITION,nom féminin,Étymologie : xxe siècle. Composé d’auto‑ et d’édition.,"Le fait d’autoéditer un ouvrage.
-L’autoédition se distingue de l’édition à compte d’auteur, qui est assurée par un éditeur aux frais de l’auteur.
-Des sites d’autoédition.
-Publier des livres en autoédition.",null
-194,0194,BURKA,nom féminin,"Étymologie : xxe siècle. Emprunté de l’arabe burque, « voile ».","Vêtement, généralement de couleur bleue, porté par certaines femmes musulmanes, en particulier en Afghanistan, constitué d’une pièce de tissu couvrant intégralement le corps et la tête et ajourée au niveau des yeux.",null
-195,0195,CHARIA,nom féminin,"Étymologie : xxe siècle. Mot arabe, signifiant proprement « voie ».","Marque de domaine : islam.
-Ensemble des prescriptions, des règles révélées par Dieu à Mahomet, qui sont contenues dans le Coran et la sunna.
-Les oulémas, docteurs de la loi coranique, sont les spécialistes de l’explication de la charia.
-Certaines prescriptions juridiques de la charia, notamment en matière de droit pénal, sont devenues caduques dans de nombreux États musulmans.",null
-196,0196,CHARLOTTE,nom féminin,Étymologie : xxe siècle. Tiré du prénom féminin Charlotte.,"Variété de pomme de terre, de forme oblongue et régulière, à chair ferme.",null
-197,0197,CODIRIGER,verbe transitif,Étymologie : xxe siècle. Dérivé de diriger.,Partager avec une ou plusieurs personnes la direction d’une entreprise.,null
-198,0198,COÉDITER,verbe transitif,Étymologie : xxe siècle. Dérivé d’éditer.,"Éditer une œuvre de l’esprit en collaboration avec une ou plusieurs personnes, maisons d’édition ou institutions.",null
-199,0199,COÉDITION,nom féminin,Étymologie : xxe siècle. Dérivé d’édition.,"Édition d’une œuvre de l’esprit assurée conjointement par deux ou plusieurs personnes, maisons d’édition, institutions ; par métonymie, cette œuvre de l’esprit elle-même.
-Un ouvrage publié en coédition.
-Une coédition franco-allemande.",null
-200,0200,DÉCONFINEMENT,nom masculin,Étymologie : xixe siècle. Dérivé de déconfiner.,"Action de déconfiner un groupe, une population ; résultat de cette action.
-Le gouvernement a autorisé un déconfinement par étapes.",null
-201,0201,DÉCONFINER,verbe transitif,"Étymologie : xviie siècle, au sens de « repousser au-delà des frontières » ; xixe siècle, au sens actuel. Dérivé de confiner.","Mettre fin au confinement d’un groupe, d’une population, leur permettre de se déplacer de nouveau librement.
-Après l’épidémie, le pays a été progressivement déconfiné.",null
-202,0202,"ÉMERVEILLANT, ÉMERVEILLANTE",adjectif,Étymologie : xixe siècle. Participe présent d’émerveiller.,"Rare.
-Qui émerveille, éblouit, provoque une admiration mêlée de surprise heureuse.
-L’émerveillante beauté de la nuit.
-Un spectacle émerveillant.",null
-203,0203,FATWA,nom féminin,Étymologie : xxe siècle. Mot arabe.,"Marque de domaine : islam.
-Avis que rend un mufti, consulté sur une question d’ordre juridique, moral, religieux.
-Les recueils de fatwas nourrissent la jurisprudence du droit islamique.
-Rendre, prononcer une fatwa.",null
-204,0204,FOOTBALLISTIQUE,adjectif,Étymologie : xxe siècle. Dérivé de football.,"Relatif au football.
-L’actualité footballistique.
-Le monde footballistique.",null
-205,0205,’HIDJAB,nom masculin,"Étymologie : xxe siècle. Mot arabe, dérivé de hajaba, « cacher, voiler ».","Voile, foulard porté par certaines femmes musulmanes, qui couvre la tête mais laisse l’ovale du visage apparent.",null
-206,0206,"JUSTINIEN, JUSTINIENNE",adjectif,Étymologie : xxe siècle. Tiré du nom de l’empereur Justinien (482-565).,"Marque de domaine : histoire.
-Relatif à l’empereur romain d’Orient Justinien.
-Surtout dans la locution Le code justinien, le recueil des constitutions impériales promulguées depuis le règne de l’empereur Hadrien, qui fut publié au vie siècle par Justinien (on dit aussi Le code de Justinien).",null
-207,0207,LABILITÉ,nom féminin,Étymologie : xvie siècle. Dérivé de labile.,"1. 
-Qualité de ce qui est labile, instable.
-La labilité d’un caractère, d’une humeur.
-Labilité affective.
-
-2. 
-Marque de domaine : sciences.
-Propriété d’un corps labile.
-La labilité d’un composé chimique.",null
-208,0208,MALTRAITANCE,nom féminin,Étymologie : xxe siècle. Dérivé de maltraiter.,"Le fait d’infliger des mauvais traitements à un être vivant.
-Les victimes de maltraitance.
-La maltraitance des enfants, des personnes dépendantes.
-Maltraitance physique, psychologique.
-Des associations luttent contre la maltraitance des animaux.",null
-209,0209,MISONÉISME,nom masculin,"Étymologie : xixe siècle. Composé à partir du grec misein, « haïr, détester », et neos, « nouveau ».","Attitude d’esprit marquant l’hostilité à toute nouveauté, à tout changement.",null
-210,0210,MISONÉISTE,adjectif,Étymologie : xixe siècle. Dérivé de misonéisme.,"Qui fait preuve de misonéisme.
-Huysmans était misonéiste ou, subst., un misonéiste.
-Par métonymie.
-Une attitude misonéiste.",null
-211,0211,NIB,pronom indéfini,"Étymologie : xixe siècle. Apocope de nibergue ou niberque, forme inversée de bernique II.","Argot.
-Rien.
-J’y comprends nib, que nib, nib de nib.",null
-212,0212,NIQAB,nom masculin,"Étymologie : xxe siècle. Mot arabe, dérivé de naqaha, « trouer ».","Voile de couleur noire, porté par certaines femmes musulmanes, qui couvre la tête et le visage à l’exception des yeux, et peut se prolonger jusqu’à former un vêtement couvrant intégralement le corps.",null
-213,0213,RUGBYSTIQUE,adjectif,Étymologie : xxe siècle. Dérivé de rugby.,"Relatif au rugby.
-La culture rugbystique d’une région.",null
-214,0214,ABBASSIDE,adjectif et nom masculin,"Étymologie : xviie siècle. Dérivé d’Abbas, nom de l’oncle de Mahomet.","1. 
-Adj.
-Relatif à une dynastie arabe descendant d’Abbas et qui régna sur le monde musulman de 750 à 1258.
-Le califat abbasside d’Haroun al-Rachid.
-
-2. 
-N. m. pl.
-Les Abbassides, les membres de cette dynastie.
-Les Abbassides succédèrent aux Omeyyades, puis furent défaits par les Mongols.",null
-215,0215,"ANTIADHÉSIF, ANTIADHÉSIVE",adjectif,Étymologie : xxe siècle. Composé d’anti‑ et d’adhésif.,"Marque de domaine : technique.
-Qui empêche l’adhérence entre deux corps.
-Un moule de cuisine pourvu d’un revêtement antiadhésif ou, elliptiquement et subst., d’un antiadhésif.
-Par métonymie.
-Une poêle antiadhésive.",null
-216,0216,ANTIREFLET,adjectif invariable,Étymologie : xxe siècle. Composé d’anti‑ et de reflet.,"■ 
-Propre à réduire ou à empêcher la réflexion de la lumière par une surface vitreuse.
-Une couche antireflet.
-Par métonymie.
-Des lunettes pourvues de verres antireflet ou, elliptiquement, des lunettes antireflet.
-Une gravure protégée par une vitre antireflet.
-▪ Subst.
-Un antireflet, des antireflets.",null
-217,0217,APARTHEID,nom masculin,"Étymologie : xxe siècle. Mot afrikaans, signifiant « séparation », tiré du néerlandais apart, « séparé », lui-même emprunté de la locution française à part.","■ 
-Marque de domaine : histoire.
-En Afrique du Sud, régime politique de ségrégation raciale, en vigueur entre 1948 et 1991, qui instituait une séparation sociale, géographique et politique entre la population blanche, la population noire et les autres populations dites de couleur.
-Frederik De Klerk et Nelson Mandela reçurent le prix Nobel de la paix en 1993 pour leur action en faveur de l’abolition de l’apartheid.
-▪ Par extension.
-Situation dans laquelle certains groupes sont discriminés selon des critères religieux, ethniques, sociaux.",null
-218,0218,"AUTOENTREPRENEUR, AUTOENTREPRENEUSE",nom,Étymologie : xxie siècle. Composé d’auto‑ et d’entrepreneur.,"Marque de domaine : administration.
-Personne établie à son compte pour exercer une activité artisanale ou certaines activités commerciales ou libérales.
-Avoir le statut d’autoentrepreneur.",null
-219,0219,AVESTIQUE,nom masculin,"Étymologie : xixe siècle. Dérivé du persan Avesta, nom du livre sacré du zoroastrisme.","Marque de domaine : linguistique.
-Nom que l’on donne à l’ancienne langue iranienne dans laquelle est écrit l’Avesta.
-L’avestique était autrefois appelé le zend.
-Adjectivement.
-La langue avestique.
-L’alphabet avestique.",null
-220,0220,"AZÉRI, AZÉRIE",adjectif,"Étymologie : xixe siècle. Emprunté du persan Azari, nom de ce peuple.","Relatif au peuple d’origine turque vivant principalement en Azerbaïdjan et en Iran.
-Subst.
-Un Azéri, une Azérie.
-L’azéri, la langue turque parlée par ce peuple.",null
-221,0221,BABILAN,nom masculin,"Étymologie : xviiie siècle. Emprunté de l’italien babilano, de même sens, lui-même tiré du nom d’un noble génois Babilano Pallavicino (1636-1686), contre qui fut lancée, en raison de son impuissance, une procédure de séparation de corps.","Rare.
-Homme atteint d’impuissance sexuelle.
-Dans certains de ses écrits, Stendhal évoque des babilans.",null
-222,0222,BAÏNE,nom féminin,Étymologie : xixe siècle. D’origine inconnue.,"Régional.
-Nom donné à une dépression se creusant dans le sable sous l’action de la marée et des vagues, qui se rencontre surtout sur la côte aquitaine.
-Les baïnes sont traversées par des courants puissants qui les rendent dangereuses pour les baigneurs.",null
-223,0223,"BANTOU, BANTOUE",adjectif,"Étymologie : xixe siècle. Emprunté, par l’intermédiaire de l’anglais bantu, de même sens, du bantou ba-ntu, « les êtres humains », lui-même composé du préfixe ba, marquant le pluriel, et de ntu, « homme ».","■ 
-Se dit du groupe de langues parlées dans une grande partie de l’Afrique, du Cameroun au Kenya et de la République centrafricaine à l’Afrique du Sud.
-Le swahili et le zoulou sont des langues bantoues.
-Subst.
-Le bantou.
-▪ Par extension.
-Relatif aux populations parlant ces langues.
-Les civilisations bantoues.",null
-224,0224,CAUDALIE,nom féminin,"Étymologie : xxe siècle. Dérivé savant du latin cauda, « queue », puis « extrémité ; fin ».","Marque de domaine : œnologie.
-Unité de mesure de la persistance gustative d’un vin une fois qu’il a été dégluti, équivalant à une seconde.",null
-225,0225,CLIMATOLOGUE,nom,Étymologie : xxe siècle. Dérivé de climatologie.,Spécialiste de la climatologie.,null
-226,0226,CLIMATOSCEPTIQUE,adjectif,Étymologie : xxe siècle. Composé à l’aide de climat et de sceptique.,"Qui met en doute la réalité du réchauffement climatique constaté à partir du xxe siècle, ou qui conteste que les activités humaines en soient la cause.
-Un discours climatosceptique.
-Un pamphlétaire climatosceptique.
-Subst.
-Un, une climatosceptique.",null
-227,0227,CONSÉQUENTIALISME,nom masculin,"Étymologie : xxe siècle. Emprunté de l’anglais consequentialism, de même sens, terme créé par la philosophe britannique Elizabeth Anscombe (1919-2001), élève de Wittgenstein, lui-même dérivé de consequential, « consécutif ».","Marque de domaine : philosophie.
-Doctrine qui soutient que la valeur morale d’une action dépend de la valeur morale des conséquences, des effets qu’on en attend.",null
-228,0228,CONSÉQUENTIALISTE,adjectif,Étymologie : xxe siècle. Dérivé de conséquentialisme.,"Marque de domaine : philosophie.
-Relatif au conséquentialisme ; qui est partisan de cette doctrine.
-Un raisonnement conséquentialiste.
-Un théoricien conséquentialiste.
-Subst.
-Un, une conséquentialiste.",null
-229,0229,"CONTRE-PRODUCTIF, CONTRE-PRODUCTIVE",adjectif,Étymologie : xxe siècle. Composé de contre‑ et de productif.,"Dont l’effet est contraire à celui qui était désiré, attendu.
-Une mesure contre-productive.",null
-230,0230,COQUILLARD,nom masculin,"Étymologie : xixe siècle. Dérivé de coquille, par analogie de forme.","Pop.
-Œil ; anus.
-Surtout dans l’expression S’en tamponner le coquillard ou, elliptiquement, s’en tamponner, se moquer de quelque chose, montrer de l’indifférence à son égard.",null
-231,0231,COVOITURAGE,nom masculin,Étymologie : xxe siècle. Dérivé de voiturage.,"Mode de déplacement dans lequel plusieurs personnes s’organisent pour n’utiliser qu’une seule voiture lors d’un trajet commun.
-Le covoiturage permet de partager les frais de transport et de limiter la pollution en réduisant la quantité de carburant utilisée.",null
-232,0232,CURIOSA,nom féminin pluriel,"Étymologie : xixe siècle. Mot latin, signifiant proprement « choses curieuses », neutre pluriel substantivé de curiosus, « curieux », puis « étrange ».","■ 
-Marque de domaine : édition.
-Publications à caractère licencieux prisées par les bibliophiles.
-Une bibliothèque de curiosa.
-▪ S’emploie parfois, au masculin singulier, pour désigner l’une de ces publications.
-Un curiosa ancien.",null
-233,0233,DÉCARBONER,verbe transitif,Étymologie : xxe siècle. Dérivé de carbone.,"Marque de domaine : écologie.
-Réduire les émissions de dioxyde de carbone produites par une industrie, un secteur économique, etc., en limitant notamment l’utilisation de combustibles fossiles.
-Le gouvernement souhaite décarboner la production d’électricité.
-Décarboner les transports.
-Par extension.
-Une énergie décarbonée n’émet pas de dioxyde de carbone.",null
-234,0234,DÉCONSTRUCTION,nom féminin,Étymologie : xviiie siècle. Dérivé de construction.,"1. 
-Action de désassembler, de démonter une construction, une installation, pour en conserver certains éléments, la transformer ou la déplacer.
-La déconstruction d’une ancienne centrale à charbon.
-
-2. 
-Marque de domaine : philosophie.
-Dans la philosophie de Jacques Derrida, démarche intellectuelle qui décompose les oppositions binaires et hiérarchisées structurant le discours philosophique, littéraire, juridique, etc.
-La déconstruction se situe dans la continuité du questionnement de la métaphysique que développe Heidegger dans « Être et Temps », sous le nom de « Destruktion ».
-La déconstruction subvertit notamment les relations sémantiques traditionnellement admises entre l’être et le non-être, le même et l’autre, la substance et l’accident.
-▪ Par extension.
-Méthode critique qui cherche à remettre en cause certaines valeurs, normes et représentations considérées comme étant à l’origine d’une société inégalitaire, en s’attachant en particulier à mettre au jour leur historicité.
-La déconstruction du patriarcat.",null
-235,0235,DÉZINGUER,verbe transitif,"Étymologie : xxe siècle, d’abord employé dans l’argot militaire, au sens d’« abattre un avion ». Dérivé de zinc, au sens de « petit avion ».","1. 
-Détruire, mettre hors d’usage.
-Il a dézingué sa voiture.
+Quitter un lieu où l’on devrait se trouver.
+Abandonner son poste.
 ▪ Fig.
-Maltraiter, critiquer avec violence quelqu’un ou quelque chose.
-Se faire dézinguer par son supérieur.
-Ce roman a été dézingué par la critique.
+En parlant d’une faculté, d’une disposition d’esprit.
+Ses forces l’abandonnent.
+Tout son courage, tout espoir l’a abandonné.
+Son désir de vengeance l’abandonna soudain.
+
+
+4. 
+Se séparer d’un être dont on a la charge, le laisser sans secours ni assistance.
+Quasimodo fut abandonné sur le parvis de Notre-Dame.
+Ils ont abandonné leur chien au bord d’une route.
+Abandonner ses parents dans la misère.
+Il s’est senti abandonné quand sa femme l’a quitté.
+Par exagération.
+Il est tard, je dois vous abandonner.
+▪ Par extension.
+Se défaire d’une chose, pour toujours ou temporairement.
+Abandonner une voiture dans un terrain vague.
+Lors de la mue, les serpents abandonnent leur dépouille.
+Abandonner son livre sur la table.
+
+
+5. 
+Lâcher, laisser aller ce qu’on tenait ou retenait.
+Abandonner les rames et se laisser dériver.
+Le complément d’objet désigne une partie du corps.
+Abandonner sa main dans celle d’un ami, sa tête sur l’épaule de son amoureux.
+▪ Expr. fig.
+Abandonner les rênes de quelque chose, renoncer à le diriger.
+Il a abandonné les rênes de l’État, de l’entreprise familiale.",2026-06-04T03:59:08.896Z
+A0016,A,ABAQUE,nom masculin,"Étymologie : xiie siècle. Emprunté du latin abacus, « tablette », lui-même tiré du grec abax, abakos, « table à calcul ; table de jeu ».","1. 
+Marque de domaine : Antiquité.
+Plateau couvert de sable où l’on traçait des lettres, des nombres, des figures ; tablette où figuraient des lignes ou des colonnes, sur laquelle on posait des jetons afin de faire des calculs.
+
+2. 
+Cadre portant des tringles sur lesquelles des boules sont enfilées, et qui sert à calculer (on dit plutôt Boulier).
+
+3. 
+Marque de domaine : mathématiques.
+Représentation graphique d’une famille de courbes, utilisée pour connaître, par simple lecture, la valeur approchée des solutions de certaines équations.
+L’abaque est utilisé en physique, en chimie, en astronomie.
+
+4. 
+Marque de domaine : architecture.
+Partie supérieure d’un chapiteau de colonne, qui peut être surmontée d’un tailloir ou supporter directement l’architrave.
+Abaque carré, circulaire.
+Abaque à cornes.
+▪ S’emploie aussi au sens de Tailloir.",2026-06-04T03:59:08.953Z
+A0018,A,ABASOURDIR,verbe transitif direct,"Étymologie : xviie siècle. Dérivé de basourdir, « tuer », altération de basir, de même sens, dans l’argot des coquillards.","■ 
+Étourdir par un grand bruit.
+Ce vacarme, ces criailleries perpétuelles nous abasourdissent.
+▪ Surtout fig.
+Frapper de stupeur.
+Il a été abasourdi de sa disgrâce.
+Au participe passé, adjectivement.
+La nouvelle l’a laissé tout abasourdi.",2026-06-04T03:59:09.083Z
+A0020,A,ABAT,nom masculin,Étymologie : xve siècle. Déverbal d’abattre.,"1. 
+Au pluriel.
+Désigne les morceaux d’un animal de boucherie qui ne sont pas de la chair mais sont comestibles.
+Les rognons, le foie, la langue, la cervelle, le cœur, les ris de veau et les tripes sont des abats.
+Les abats de volaille sont aussi appelés « abattis ».
+
+2. 
+Fait de s’abattre.
+S’emploie seulement, dans certaines régions de l’Ouest de la France et au Québec, dans les locutions Pluie d’abat, Abat d’eau, pour désigner une averse violente.",2026-06-04T03:59:09.177Z
+A0029,A,ABATTEMENT,nom masculin,"Étymologie : xiie siècle, au sens d’« action d’abattre, de renverser » ; xiiie siècle, au sens de « diminution d’une somme, rabais » ; xviie siècle, au sens d’« affaiblissement des forces, du courage ». Dérivé d’abattre.","1. 
+Défaillance des forces physiques ou morales.
+La chaleur le plonge dans l’abattement.
+Cette mauvaise nouvelle l’a jeté dans l’abattement.
+Les périodes d’euphorie succédaient aux périodes d’abattement.
+
+2. 
+Déduction faite sur une somme à payer.
+Obtenir un abattement sur sa facture d’eau, d’électricité.
+▪ Spécialement. Marque de domaine : fiscalité.
+Abattement à la base ou, elliptiquement, abattement, diminution de la base imposable d’un contribuable ; fraction de la base imposable ainsi exemptée de l’impôt.
+Les abattements sont automatiquement appliqués par l’administration fiscale.
+Un abattement de tant sur les droits de succession.",2026-06-04T03:59:09.380Z
+A0031,A,ABATTIS,nom masculin,Étymologie : xiie siècle. Dérivé d’abattre.,"1. 
+Vieilli.
+Action d’abattre quelque chose ; ce qui est ainsi abattu.
+On a fait dans cette forêt un grand abattis de chênes.
+Ôter un abattis de pierres.
+Par extension.
+Cette bataille fut un grand abattis d’hommes.
+▪ Spécialement. Marque de domaine : militaire.
+Retranchement formé d’arbres que l’on a abattus pour faire obstacle à la progression de l’ennemi.
+
+▪ Désigne aujourd’hui, au Québec, un terrain où les arbres ont été abattus mais non dessouchés et, en Guyane, une parcelle cultivée.
 
 
 2. 
-Tuer.",null
-236,0236,"DOCTORANT, DOCTORANTE",nom,Étymologie : xxe siècle. Dérivé de doctorat.,"Marque de domaine : enseignement.
-Étudiant qui prépare une thèse de doctorat.
-Une doctorante en lettres, en sciences, en droit.
-Des doctorants en médecine.",null
-237,0237,ENTÔLER,verbe transitif,"Étymologie : xxe siècle. Dérivé de tôle, au sens argotique ancien de « petite maison, chambre ».","■ 
-Argot.
-En parlant d’une prostituée, voler son client, lui dérober son argent, ses objets de valeur.
-▪ Par extension. Pop.
-Escroquer quelqu’un.",null
-238,0238,FAXER,verbe transitif,Étymologie : xxe siècle. Dérivé de fax.,"Procéder à la reproduction et à l’envoi d’un document par fax.
-Faxer un formulaire.
-(On dit aussi Télécopier.)",null
-239,0239,GEMMOLOGIE,nom féminin,"Étymologie : xxe siècle. Composé à l’aide de gemme et de ‑logie, tiré du grec logos, « étude ; discours, traité ».","Étude des pierres fines ou précieuses, naturelles ou artificielles, en particulier en vue de leur utilisation en joaillerie.",null
-240,0240,HALLUX,nom masculin,"Étymologie : xixe siècle. Mot du latin scientifique, emprunté du latin hallus, de même sens.","Marque de domaine : médecine.
-Gros orteil.
-S’emploie surtout dans la locution Hallux valgus, qui désigne une déviation anormale du gros orteil vers les autres doigts du pied.
-L’hallux valgus peut rendre la marche douloureuse.",null
-241,0241,HELLÉNOPHONE,adjectif,"Étymologie : xxe siècle. Composé à l’aide de hellén‑, tiré du grec Hellên, « Grec », et de ‑phone, tiré du grec phônê, « son, voix », puis « langue ».","Qui parle grec ; où l’on parle grec.
-Les populations hellénophones de Turquie.
-Le monde hellénophone antique.
-Subst.
-Un, une hellénophone.",null
-242,0242,HOMOPHOBE,adjectif,"Étymologie : xxe siècle. Composé d’homo‑, tiré d’homosexuel, et de ‑phobe, tiré du grec phobos, « crainte ».","Qui éprouve, qui manifeste de l’aversion, de l’hostilité à l’égard des homosexuels ou à l’égard de l’homosexualité.
-Un pamphlétaire homophobe.
-Par métonymie.
-Une injure, un discours homophobes.
-Une agression homophobe.
-Subst.
-Un, une homophobe.",null
-243,0243,HOMOPHOBIE,nom féminin,"Étymologie : xxe siècle. Composé d’homo‑, tiré d’homosexuel, et de ‑phobie, tiré du grec phobos, « crainte ».","Aversion, hostilité à l’égard des homosexuels ou à l’égard de l’homosexualité.
-Lutter contre l’homophobie.
-Les manifestations d’homophobie sont considérées comme des circonstances aggravantes par le Code pénal.",null
-244,0244,KEYNÉSIANISME,nom masculin,Étymologie : xxe siècle. Dérivé de keynésien.,"Marque de domaine : économie.
-Doctrine de l’économiste anglais John Maynard Keynes, qui récuse la théorie de l’école classique selon laquelle l’offre et la demande s’équilibrent, en mettant notamment en avant l’existence d’un chômage résiduel, l’influence déterminante de la monnaie dans l’économie, et qui préconise une intervention régulatrice de l’État.
-Le keynésianisme a fortement influencé les politiques économiques menées après la Seconde Guerre mondiale.",null
-245,0245,"KEYNÉSIEN, KEYNÉSIENNE",adjectif,Étymologie : xxe siècle. Dérivé du nom de l’économiste anglais John Maynard Keynes (1883-1946).,"■ 
-Marque de domaine : économie.
-Relatif à Keynes, à ses théories économiques ou à ses partisans.
-Une analyse keynésienne.
-On a parfois parlé de « révolution keynésienne ».
-L’école keynésienne.
-▪ Subst.
-Un keynésien, une keynésienne, un partisan des théories économiques de Keynes.",null
-246,0246,MALAPROPISME,nom masculin,"Étymologie : xxe siècle. Emprunté de l’anglais malapropism, de même sens, dérivé de Mrs Malaprop, nom d’un des personnages de la pièce Les Rivaux, de Richard Sheridan (1751-1816), lui-même tiré de malapropos, forme anglicisée de la locution mal à propos.","Rare.
-Erreur involontaire et drôle consistant à remplacer un mot par un autre, à la sonorité proche.
-« Il m’a enduit d’horreur », « Tomber comme un cheval sur la soupe » sont des malapropismes.",null
-247,0247,MALINKÉ,nom masculin,"Étymologie : xixe siècle. Mot du malinké, signifiant proprement « habitant du Manden ».","Langue mandingue, parlée notamment au Sénégal, en Guinée et au Mali.
-Adjectivement. Inv. en genre.
-Le mot « boubou », qui désigne une longue tunique, est d’origine malinké.",null
-248,0248,MASCARPONE,nom masculin,"Étymologie : xviiie siècle. Mot du lombard, d’origine inconnue.","Fromage italien au lait de vache, doux et onctueux, fabriqué à partir de crème.
-Le mascarpone entre dans la préparation du tiramisu.",null
-249,0249,MINITEL,nom masculin,"Étymologie : xxe siècle. Nom d’une marque déposée, composé à l’aide de terminal et de téléphone, avec influence du préfixe mini‑.","Marque de domaine : télécommunications.
-Système d’accès aux services télématiques qui utilisait le réseau téléphonique et dont le terminal était muni d’un écran et d’un clavier ; ce terminal lui-même.
-Le minitel fut largement utilisé en France, dans les années 1980 et 1990, avant la généralisation de l’internet.
-Consulter l’annuaire électronique sur le minitel.
-Loc.
-Le minitel rose, surnom d’un service d’annonces et de messagerie à caractère érotique.",null
-250,0250,MULTICULTURALISME,nom masculin,Étymologie : xxe siècle. Composé à partir de multi‑ et de culturel.,"Coexistence de différentes cultures au sein d’un pays, d’un territoire, en particulier lorsqu’elle est perçue comme une source de richesse.",null
-251,0251,PARALYMPIQUE,adjectif,"Étymologie : xxe siècle. Francisation de l’anglais des États-Unis Paralympics, « Jeux paralympiques », lui-même composé à l’aide de paraplegic, « paraplégique », et Olympics, « Jeux olympiques ».","■ 
-Les Jeux paralympiques, compétition internationale à laquelle participent des sportifs atteints d’un handicap moteur, visuel ou mental, qui se déroule à la suite des Jeux olympiques.
-Les Jeux paralympiques d’hiver, d’été.
-Les premiers Jeux paralympiques eurent lieu en 1960, à Rome.
+Au pluriel. Marque de domaine : cuisine.
+Parties d’une volaille qu’on enlève avant de la préparer, qu’elles soient propres ou non à la consommation ; désigne plus particulièrement les abats.
+Les abattis comprennent la tête, le cou, les ailerons, le foie, le gésier.
+Un ragoût d’abattis.
+▪ Fig.
+Les bras et les jambes d’une personne.
+Surtout dans l’expression Numéroter ses abattis, dont on use pour menacer plaisamment une personne d’une correction.
+Tu peux numéroter tes abattis !",2026-06-04T03:46:29.585Z
+A0039,A,ABBAYE,nom féminin,"Étymologie : xe siècle. Issu du latin chrétien abbatia, « charge d’abbé », lui-même dérivé de abbas, « père », comme titre honorifique, puis « abbé », pour les sens 1 et 2 ; probablement dérivé d’abbé, au sens ancien de « chef de confrérie », pour le sens 3.","1. 
+Communauté de moines qui a pour supérieur un abbé, ou de moniales qui a pour supérieure une abbesse.
+L’abbaye royale de Saint-Denis.
+Fonder, réformer une abbaye.
+Une abbaye cistercienne, bénédictine.
+Une abbaye en commende, en règle.
+▪ Par métonymie.
+L’ensemble des bâtiments où vit cette communauté.
+Le cloître de l’abbaye.
+L’abbaye de Port-Royal des Champs fut rasée en 1713.
+
+▪ Spécialement. Marque de domaine : histoire.
+Abbaye princière, dans le Saint-Empire romain germanique, abbaye constituant un territoire ecclésiastique souverain, et dont l’abbé ou l’abbesse avait le titre de prince ou de princesse.
+– Marque de domaine : littérature.
+L’abbaye de Thélème, communauté laïque et mixte, imaginée par Rabelais, dont la seule règle est : « Fais ce que voudras. »
+
+
+
+2. 
+Anciennement.
+Bénéfice attaché au titre d’abbé.
+Certains prélats possédaient plusieurs abbayes.
+
+3. 
+En Suisse, société de tireurs et, par extension, concours de tir organisé par une telle société, qui donne lieu à une fête de village.
+Les abbayes du canton de Vaud.",2026-06-04T03:59:09.613Z
+A0048,A,"ABDOMINAL, ABDOMINALE",adjectif et nom masculin pluriel,Étymologie : xviie siècle. Dérivé d’abdomen.,"1. 
+Marque de domaine : anatomie.
+Qui se rapporte à l’abdomen.
+Région abdominale.
+Sangle abdominale, voir Sangle.
+Des douleurs abdominales.
+
+2. 
+Marque de domaine : zoologie.
+Relatif à l’abdomen des Arthropodes.
+Segments abdominaux, anneaux formant l’abdomen de ces animaux.",2026-06-04T03:54:27.065Z
+A0063,A,ABIÉTACÉES,nom féminin pluriel,"Étymologie : xixe siècle. Dérivé savant du latin abies, ‑etis, « sapin ».","Marque de domaine : botanique.
+Synonyme de Pinacées.",2026-06-04T03:59:10.088Z
+A0065,A,ABÎME,nom masculin,"Étymologie : xiie siècle. Issus du latin populaire *abismus, altération du latin chrétien abyssus, « profondeur de l’enfer, abîme », lui-même tiré du grec abussos, « ce qui est sans fond ».","1. 
+Grande misère matérielle ou morale où l’on tombe.
+Il court à l’abîme.
+Elle est au bord de l’abîme.
+Toucher le fond de l’abîme.
+Expr. vieillie.
+Creuser un abîme sous les pas de quelqu’un, travailler à le perdre.
+
+2. 
+Ce qui semble insondable, sans limites ; ce qui dépasse la compréhension, constitue une énigme, un mystère.
+Un abîme de misère, de perplexité.
+Se trouver face à un abîme de difficultés.
+L’idée d’infini est un abîme pour l’esprit humain.
+
+3. 
+Ce qui sépare, divise profondément.
+Il y a un abîme entre ces deux conceptions du monde.",2026-06-04T03:59:10.205Z
+A0068,A,ABIOTIQUE,adjectif,"Étymologie : xixe siècle. Dérivé de biotique, avec le préfixe privatif a- [ii].","1. 
+Marque de domaine : biologie.
+Qui ne permet pas la vie.
+Un milieu abiotique.
+
+2. 
+Marque de domaine : écologie.
+Qui ne se rapporte pas aux êtres vivants.
+Facteur abiotique, qui concerne les caractères physicochimiques d’un milieu.
+La salinité, la température, la luminosité sont des facteurs abiotiques.",2026-06-04T03:59:10.314Z
+A0076,A,ABLATION,nom féminin,"Étymologie : xive siècle. Emprunté du latin tardif ablatio, « action d’enlever », lui-même dérivé de ablatum, supin de auferre, « emporter, enlever ».","Action de retirer, de retrancher quelque chose ; le fait qu’une chose, une matière soit enlevée, disparaisse d’un tout.
+Ne s’emploie que dans des domaines spécialisés.
+Marque de domaine : chirurgie.
+Intervention consistant à enlever une tumeur ou une partie du corps, un organe.
+Ablation d’un kyste.
+Ablation des amygdales, de la prostate.
+– Marque de domaine : géologie.
+Disparition d’une partie d’un relief, d’un névé, d’un glacier, provoquée selon les cas par l’érosion, par la fonte ou la sublimation de la glace, ou encore par le vêlage.",2026-06-04T03:59:10.522Z
+A0084,A,ABOIEMENT,nom masculin,"Étymologie : xiiie siècle, abaiement, abeiement. Dérivé d’aboyer.","1. 
+Cri du chien et d’autres canidés ; action d’aboyer.
+On entendait les aboiements lointains de la meute.
+L’aboiement du renard.
+Par analogie.
+L’aboiement du chevreuil.
+
+2. 
+Fig.
+Parole prononcée d’une manière agressive, violente ; invective, menace.
+Les aboiements d’un garde-chiourme.",2026-06-04T03:59:10.720Z
+A0096,A,ABONDER,verbe intransitif et verbe transitif indirect et direct,"Étymologie : xiie siècle. Emprunté du latin abundare, « déborder ».","1. 
+V. tr. indirect. Suivi de la préposition en.
+Avoir en abondance une ressource, un bien.
+La région abonde en vignobles.
+La rivière abonde en truites et en brochets.
+Abonder en richesses.
+Ce pays abonde en vestiges romains.
+Fig.
+Cet ouvrage abonde en anecdotes piquantes.
+▪ S’emploie aussi absolument dans l’expression Abonder dans le sens de quelqu’un, lui apporter des arguments qui renforcent son opinion, l’approuver entièrement.
+J’abonde dans votre sens.
+
+
+2. 
+V. tr. direct. Marque de domaine : finance.
+Alimenter un compte, un budget.
+Abonder un fonds.
+▪ Spécialement.
+En parlant d’un employeur, verser une somme d’argent sur un plan d’épargne en complément de celles qui y sont placées par chacun des salariés.",2026-06-04T03:46:31.285Z
+A0117,A,ABOUTIR,verbe transitif indirect et verbe intransitif,"Étymologie : xive siècle. Dérivé de bout, avec le préfixe a- [i].","1. 
+Se terminer, mener en un lieu.
+La route aboutit à la mer.
+Pierre Paul de Riquet fit aboutir à Sète le canal du Midi.
+L’escalier aboutit au grenier.
+▪ Par extension. En parlant d’une personne.
+Parvenir, arriver à un endroit déterminé.
+En suivant cette route, vous aboutirez au carrefour.
+
+
+2. 
+Avoir pour résultat, pour conséquence.
+La controverse a abouti à la plus grande confusion.
+Cette affaire n’aboutit à rien.
+Cela n’aboutira qu’à sa perte.",2026-06-04T04:01:30.619Z
+A0122,A,ABOYER,verbe intransitif,"Étymologie : xiie siècle, abaier, puis aboier. Tiré du radical expressif bai‑ ou bau‑, imitant l’aboiement du chien.","1. 
+En parlant du chien et d’autres canidés.
+Pousser son cri.
+Des chiens aboient dans la cour.
+Les chacals aboyaient dans le désert.
+En emploi transitif indirect.
+Le berger allemand aboyait après les visiteurs.
+Aboyer à la lune.
+▪ Par analogie.
+Les otaries mâles aboient pour défendre leur territoire.
+
+▪ Prov.
+Les chiens aboient, la caravane passe, il faut suivre son plan en dépit des critiques.
+Chien qui aboie ne mord pas, ceux qui font le plus de bruit ne sont pas les plus redoutables.
+
+
+2. 
+Fig.
+Parler d’une voix forte et agressive.
+Il aboie plus qu’il ne parle.
+En emploi transitif direct.
+Aboyer un ordre, des consignes.
+En emploi transitif indirect.
+Tous aboyaient après lui.
+Expr.
+Aboyer aux chausses de quelqu’un, le harceler.",2026-06-04T04:01:30.815Z
+A0134,A,ABREUVER,verbe transitif direct,"Étymologie : xiie siècle, abevrer. Issu du latin populaire *abbiberare, « faire ou mener boire », lui-même dérivé de bibere, « boire ».","1. 
+Faire boire les chevaux, le bétail en mettant de l’eau à leur portée.
+Abreuver les troupeaux.
+Pron.
+L’heure où les animaux viennent s’abreuver à la source, viennent y boire.
 ▪ Par extension.
-Relatif à ces jeux ; qui participe à ces jeux.
-Le rugby en fauteuil est une discipline paralympique depuis 2000.
-Comité international paralympique.
-Champion paralympique.",
-252,0252,"PLURINUCLÉÉ, PLURINUCLÉÉE",adjectif,Étymologie : xixe siècle. Composé de pluri‑ et de nucléé.,"Marque de domaine : biologie.
-Se dit d’une cellule qui comporte plusieurs noyaux.
-Certaines cellules du placenta sont plurinucléées.",
+Abreuver ses convives.
+
+
+2. 
+Imbiber en profondeur.
+La pluie a abreuvé la terre.
+
+3. 
+Fig.
+Donner à quelqu’un quelque chose en abondance, jusqu’à l’excès.
+Elle l’a abreuvé de conseils, de recommandations.
+Abreuver quelqu’un de coups, d’injures.
+Pron.
+Il s’abreuve de romans policiers.",2026-06-04T04:01:31.164Z
+A0155,A,ABSCISSE,nom féminin,"Étymologie : xviiie siècle. Emprunté du latin abscissa, dans l’expression abscissa linea, « ligne coupée », lui-même issu du participe passé de abscindere, « couper ».","1. 
+Nombre qui indique la position d’un point sur une droite graduée.
+Déterminer l’abscisse du milieu d’un segment.
+
+2. 
+Celle des coordonnées qui est conventionnellement énoncée en premier, dans un repère cartésien.
+Dans un repère du plan, l’abscisse, notée « x », désigne la coordonnée horizontale d’un point, l’ordonnée, notée « y », sa coordonnée verticale.
+L’axe des abscisses.",2026-06-04T04:01:31.587Z
+A0159,A,ABSENTÉISME,nom masculin,"Étymologie : xixe siècle. Emprunté de l’anglais absenteeism, de même sens, dérivé de absentee, « absent », tiré de to absent, « vivre hors de ses terres (en parlant des grands propriétaires) », lui-même emprunté de l’ancien français s’absenter, « s’éloigner ».","Attitude d’une personne qui, de manière répétée et non justifiée, est absente de son lieu de travail, de son école.
+On constate dans cette entreprise un fort taux d’absentéisme.
+L’absentéisme scolaire.",2026-06-04T04:01:31.698Z
+A0164,A,ABSINTHE,nom féminin,"Étymologie : xiie siècle, absince. Emprunté, par l’intermédiaire du latin absinthium, du grec apsinthion, de même sens.","1. 
+Marque de domaine : botanique.
+Nom donné à deux espèces d’armoises aromatiques utilisées pour leurs vertus médicinales.
+La grande absinthe ou absinthe officinale.
+La petite absinthe est aussi appelée « armoise romaine ».
+L’absinthe contient une molécule qui, à forte dose, provoque des convulsions et des hallucinations.
+
+2. 
+Par métonymie.
+Boisson alcoolisée de couleur verte obtenue à partir d’un mélange de ces armoises et d’autres plantes aromatiques.
+Au xixe siècle, l’absinthe était surnommée la « fée verte ».
+Interdite en France en 1915 en raison de ses effets nocifs, l’absinthe est aujourd’hui commercialisée sous une forme chimiquement modifiée.",2026-06-04T04:01:31.839Z
+A0165,A,"ABSOLU, ABSOLUE",adjectif et nom masculin,"Étymologie : xie siècle, asolu. Emprunté du latin absolutus, « achevé, complet », tiré du participe passé de absolvere, « détacher de tout lien ; acquitter, absoudre » et « achever, parfaire ».","1. 
+Se dit d’un pouvoir qui s’exerce sans limite et sans contrôle, et de ce qui s’y rapporte.
+Puissance, autorité absolue.
+Monarchie absolue, voir Monarchie.
+▪ Par métonymie.
+Souverain, monarque absolu.
+Maître absolu.
+
+▪ Par extension.
+Se dit d’une personne entière, péremptoire, et de ce qui la caractérise.
+Il est absolu dans ses jugements.
+Un caractère absolu.
+
+
+2. 
+Qui est sans restriction, sans réserve ; intégral, complet.
+Une confiance, une discrétion absolue.
+Une absolue certitude.
+Je suis dans l’absolue nécessité de me passer de vos services.
+J’exige de vous une obéissance absolue.
+Il vit dans une solitude absolue.
+Son désintéressement est absolu.
+Défense absolue de fumer.
+Il a érigé ce principe en règle absolue.
+
+3. 
+Que l’on considère en soi (souvent par opposition à Relatif).
+Spécialement. Marque de domaine : philosophie.
+Qui n’admet aucune condition, aucune limite, qui est indépendant de toute comparaison.
+Le Vrai, le Beau absolu.
+Une vérité absolue.
+– Marque de domaine : droit.
+Majorité absolue, égale à la moitié des suffrages exprimés plus un, par opposition à Majorité relative et à Majorité qualifiée.
+
+– Marque de domaine : mathématiques.
+Valeur absolue, valeur d’une expression mathématique ou d’un nombre sans considération de son signe.
+
+– Marque de domaine : physique.
+Mouvement absolu, celui d’un corps envisagé par rapport à un repère fixe, immobile, par opposition à Mouvement relatif.
+Zéro absolu, température d’un système dans lequel l’agitation thermique des molécules, des atomes est nulle, et qui correspond à la température de –237,16 degrés Celsius.
+Le zéro absolu est la température la plus basse que l’on puisse théoriquement atteindre.
+La température absolue, qui est définie par rapport au zéro absolu et s’exprime généralement en kelvins.
+
+– Marque de domaine : grammaire.
+Superlatif absolu, qui exprime une qualité à un haut degré, sans rapport à une autre personne ou à une autre chose, par opposition à Superlatif relatif.
+Dans « Ce spectacle est très beau », « très beau » est un superlatif absolu ; dans « Ce spectacle est le plus réussi de l’année », « le plus réussi » est un superlatif relatif.
+Emploi absolu, construction absolue, où un mot est utilisé sans complément.
+Un verbe transitif en emploi absolu se construit sans complément d’objet.
+Le nom « rentrée » se rencontre généralement en construction absolue pour parler de la rentrée des classes.
+En grammaire grecque et latine.
+Ablatif, génitif absolu, proposition participiale dont le sujet et le participe sont à l’ablatif en latin, au génitif en grec.
+
+▪ Par extension.
+Parfait, pur, sans mélange.
+L’amour absolu.
+Une passion absolue.
+Donner à un mot son sens absolu, son sens fort, plein.
+Marque de domaine : chimie.
+Alcool absolu, solution d’éthanol contenant moins de 1 % d’eau.",2026-06-04T04:01:31.961Z
+A0166,A,ABSOLUMENT,adverbe,Étymologie : xiiie siècle. Dérivé d’absolu.,"1. 
+Souverainement, sans limite ni contrôle.
+Le monarque entendait gouverner absolument.
+Il commande absolument.
+▪ Par extension.
+De manière péremptoire.
+On eut beau lui dire qu’il ne devait pas partir, il le voulut absolument.
+Son père lui défendit absolument de la revoir.
+
+
+2. 
+Entièrement, tout à fait ; sans réserve ni restriction, rigoureusement.
+C’est absolument exclu.
+Je désapprouve absolument cette initiative.
+Il nia absolument les faits.
+Cela m’est absolument égal.
+Je n’y comprends absolument rien.
+Il s’en remet absolument à vous.
+Il est absolument libre de ses mouvements.
+À valeur intensive.
+Il faut absolument que vous partiez.
+Il tient absolument à avoir le dernier mot.
+Nous n’avions absolument pas l’intention de vous blesser.
+▪ Par affaiblissement.
+Pour répondre familièrement par l’affirmative.
+« Viendrez-vous demain ? – Absolument. »
+
+
+3. 
+Sans autre considération, sans condition.
+Dieu est absolument.
+▪ Loc.
+Absolument parlant, si l’on s’en tient à la chose, à la situation elle-même.
+Absolument parlant, c’est interdit.
+Cette raison n’est pas mauvaise, absolument parlant.
+
+▪ Spécialement. Marque de domaine : grammaire.
+Sans complément.
+Prendre, employer un verbe absolument.
+Dans la phrase « Elle a voté contre », l’adverbe « contre » est construit absolument.
+Dans le Dictionnaire de l’Académie française, la mention « absolument » est abrégée en « absolt ».",2026-06-04T04:01:32.042Z
+A0173,A,ABSORBER,verbe transitif direct,"Étymologie : xie siècle, assorber, « engloutir ». Emprunté du latin absorbere, « avaler ».","1. 
+Laisser pénétrer en soi et retenir un liquide, un gaz, un rayonnement, etc.
+L’éponge absorbe l’eau.
+Les plantes absorbent le dioxyde de carbone par leurs feuilles.
+Le noir absorbe la lumière.
+Par métonymie.
+L’enfant a absorbé la tache d’encre avec un buvard.
+▪ Par extension.
+En parlant d’une personne, d’un animal.
+Consommer un aliment ; ingérer une substance.
+Absorber du lait, de la nourriture.
+Le malade n’a rien absorbé depuis trois jours.
+
+▪ Spécialement. Marque de domaine : physique nucléaire.
+Dose absorbée, voir Dose.
+
+
+2. 
+Fig.
+Faire disparaître quelque chose en l’utilisant ou en l’intégrant dans un ensemble.
+Son bénévolat absorbe tout son temps libre.
+Les frais d’expertise ont absorbé une partie de la succession.
+Cette société a rapidement absorbé les petites entreprises de la région.
+▪ S’emploie aussi au sens d’Occuper quelqu’un entièrement.
+Ses fonctions l’absorbent jour et nuit.
+C’est un travail qui vous absorbera pendant plusieurs mois.
+Pron.
+S’absorber dans ses réflexions, dans la lecture.",2026-06-04T04:01:32.288Z
+A0174,A,ABSORPTION,nom féminin,"Étymologie : xvie siècle. Emprunté du latin chrétien absorptio, « engloutissement (de l’âme) », lui-même dérivé de absorbere, « avaler ».","1. 
+Action de laisser pénétrer en soi et retenir un liquide, un gaz, un rayonnement, etc.
+L’absorption de la pluie par un terrain sablonneux.
+L’absorption d’eau et de sels minéraux par les racines d’un végétal.
+L’absorption des rayons solaires par la couche atmosphérique.
+Cette fibre textile a un grand pouvoir d’absorption.
+Étudier l’absorption du glucose par l’intestin.
+▪ Par extension.
+En parlant d’une personne, d’un animal.
+Action de consommer un aliment, d’ingérer une substance.
+L’absorption excessive d’alcool est nuisible.
+
+▪ Spécialement. Marque de domaine : physique.
+Raie, Spectre d’absorption, voir Raie [i], Spectre.
+– Marque de domaine : technique.
+À absorption, se dit d’une machine frigorifique dans laquelle le fluide réfrigérant est pressurisé grâce à sa dissolution dans un autre fluide.
+Le réfrigérateur à absorption d’une caravane.
+
+
+
+2. 
+Fig.
+Action de faire disparaître quelque chose en l’utilisant ou en l’intégrant dans un ensemble.
+L’absorption d’une entreprise par une autre.
+▪ Désigne aussi parfois l’état d’une personne absorbée dans un travail, une lecture, etc.
+L’absorption d’un jeune homme dans sa rêverie.",2026-06-04T04:01:32.367Z
+A0190,A,ABSURDE,adjectif et nom masculin,"Étymologie : xiiie siècle, comme adjectif ; xvie siècle, comme nom. Emprunté du latin absurdus, « discordant, dissonant ; hors de propos », lui-même dérivé de surdus, « sourd ».","1. 
+Adj.
+Qui va contre la raison, la logique ; qui heurte le sens commun.
+Un argument absurde.
+Il est absurde d’agir comme vous le faites.
+Ce que vous dites là est absurde.
+
+2. 
+N. m.
+Ce qui contrevient aux normes de la logique, ce qui est contradictoire, déraisonnable.
+Tomber dans l’absurde.
+Démonstration, raisonnement par l’absurde, consistant à démontrer qu’une proposition est vraie par l’énoncé des conséquences qui découlent de la proposition contradictoire.
+Réduire une proposition à l’absurde, voir Réduire.
+▪ Désigne plus particulièrement l’écart entre les aspirations de l’homme et son expérience vécue, l’impossibilité de trouver une justification à l’existence humaine.
+Albert Camus expose sa philosophie de l’absurde dans « Le Mythe de Sisyphe ».
+Marque de domaine : littérature.
+Le théâtre de l’absurde, dont la dramaturgie et l’esthétique, en rupture complète avec la tradition, illustrent le caractère irrationnel et parfois désespéré de la condition humaine en mettant en scène des situations dénuées de sens, qui provoquent le rire entre autres réactions.
+« Théâtre de l’absurde » est le titre d’un essai de Martin Esslin publié au début des années 1960.
+Les pièces de Beckett et d’Ionesco relèvent du théâtre de l’absurde.",2026-06-04T04:01:32.710Z
+A0193,A,ABUS,nom masculin,"Étymologie : xive siècle, au sens 1 ; xxe siècle, au sens 2. Emprunté du latin abusus, « utilisation d’une chose jusqu’à son épuisement », lui-même dérivé de abuti, « user complètement ; détourner de son usage », avec, pour le sens 2, influence probable de l’anglais des États-Unis sexual abuse, « agression sexuelle, viol ».","1. 
+Usage mauvais ou excessif de quelque chose.
+L’abus de l’alcool, du tabac.
+Faire des abus de nourriture.
+L’abus qu’il a fait de ses richesses, de ses forces, de son autorité.
+L’abus des adverbes dans une description.
+Loc.
+Abus de langage, emploi, conscient ou non, d’un mot dans un sens qui n’est pas le sien.
+C’est par abus de langage que le mot « achalandé » a pris le sens de « bien approvisionné en marchandises ».
+▪ Sans complément.
+Pratique consistant à profiter injustement d’une situation, d’un avantage.
+Un abus manifeste.
+Tolérer, réformer les abus.
+La chasse aux abus.
+Loc. fam.
+Y a de l’abus, c’est exagéré, cela va trop loin.
+
+▪ Spécialement. Marque de domaine : droit.
+Abus de droit, faute commise par le titulaire d’un droit qui utilise ce droit en le détournant de son but.
+Abus d’autorité, contrainte morale qu’une personne exerce sur quelqu’un qui lui est subordonné ou est dépendant d’elle, afin de lui faire accomplir un acte ; fait, pour un fonctionnaire, d’outrepasser les droits liés à sa fonction.
+Abus de confiance, délit consistant à détourner des objets, des valeurs ou des documents remis en vertu d’un contrat.
+Abus de jouissance, le fait de dégrader ou de laisser dépérir le fonds dont on a l’usage ou l’usufruit.
+Abus de biens sociaux, délit commis par le dirigeant d’une société commerciale qui a utilisé les biens ou le crédit de cette société à des fins personnelles ou pour favoriser une autre société dans laquelle il est intéressé.
+Abus de position dominante, pratique illicite d’une entreprise qui cherche à profiter de sa puissance économique pour réduire ou éliminer la concurrence.
+Abus de faiblesse, délit qui consiste à exploiter l’ignorance ou la vulnérabilité d’une personne pour l’amener à prendre des décisions ou des engagements dont elle ne peut mesurer la portée.
+
+
+2. 
+Le fait d’agresser sexuellement une personne ou de la violer.
+Commettre, dénoncer des abus sexuels.",2026-06-04T04:01:32.830Z
+A0194,A,ABUSER,verbe transitif direct et indirect et verbe intransitif,Étymologie : xive siècle. Dérivé d’abus.,"1. 
+V. tr. direct.
+Tromper, duper quelqu’un.
+Abuser l’ennemi par de subtiles manœuvres.
+Il l’a abusée par de fausses promesses.
+Pron.
+Nous nous sommes abusés sur ses intentions.
+▪ Loc.
+Si je ne m’abuse, sauf erreur de ma part.
+Elle a dit qu’elle viendrait, si je ne m’abuse.
+
+
+2. 
+V. tr. indirect (suivi de la préposition de).
+Faire un usage mauvais ou excessif de quelque chose.
+Abuser du vin, des somnifères.
+Abuser de ses forces.
+Abuser des métaphores, des citations.
+Vous abusez de ma patience.
+Il abuse de son crédit pour arriver à ses fins.
+Ils ont abusé de notre crédulité.
+▪ Suivi d’un complément désignant une personne.
+User avec excès de la complaisance, de la bonté ou de la naïveté de quelqu’un.
+Ces enfants abusent sans vergogne de leur père.
+Abuser d’un ami crédule.
+
+▪ Spécialement.
+Agresser sexuellement une personne ou la violer.
+Abuser d’une femme.
+En emploi direct.
+Il a été abusé dans son enfance.",2026-06-04T04:01:32.944Z
+A0195,A,"ABUSIF, ABUSIVE",adjectif,"Étymologie : xive siècle. Emprunté du latin tardif abusivus, terme de grammaire signifiant « contraire au bon usage », lui-même dérivé de abuti, « user complètement ; détourner de son usage ».","1. 
+Qui témoigne du mauvais usage ou de l’usage excessif qu’on fait de quelque chose.
+Pouvoir abusif.
+Une consommation abusive de médicaments.
+L’emploi abusif d’un mot.
+Les pratiques abusives d’une entreprise envers ses concurrents.
+Procédure abusive.
+Par métonymie.
+Vendre à un prix abusif.
+
+2. 
+Se dit d’une personne qui abuse de sa position.
+Père abusif, mère abusive, qui veut l’affection sans partage de son enfant, qui exerce une domination, une emprise totale sur lui.
+Veuve abusive, se disait d’une veuve qui exploite dans son propre intérêt la mémoire de son mari.",2026-06-04T04:01:33.010Z
+A0198,A,"ABYSSAL, ABYSSALE",adjectif,"Étymologie : xvie siècle, dans un sens religieux, pour désigner un sentiment d’une profondeur infinie ; xixe siècle, au sens actuel. Dérivé du latin chrétien abyssus, « abîme ».","■ 
+Marque de domaine : géographie.
+Relatif aux abysses, aux grandes profondeurs marines.
+La faune abyssale.
+Plaine abyssale, surface plane située dans les fonds océaniques à une profondeur d’environ 5 000 mètres.
+▪ Fig.
+Immense, insondable.
+Un déficit budgétaire abyssal.
+Cet homme est d’une stupidité abyssale.",2026-06-04T04:01:33.138Z
+A0199,A,ABYSSE,nom masculin,"Étymologie : xixe siècle. Emprunté, par l’intermédiaire du latin chrétien abyssus, « profondeur de l’enfer, abîme », du grec abussos, « ce qui est sans fond ».","Marque de domaine : géographie.
+Région sous-marine très profonde, dans laquelle la lumière du soleil ne pénètre pas.
+L’exploration des abysses.
+La fosse des Mariannes, dont le point le plus bas se situe à près de 11 000 mètres, est l’abysse le plus profond sur la Terre.",2026-06-04T04:01:33.194Z
+A0201,A,ACACIA,nom masculin,"Étymologie : xive siècle, acacie ; xvie siècle, acacia. Emprunté du latin acacia, « mimosa ».","■ 
+Nom donné à divers arbres ou arbrisseaux de la famille des Fabacées, aux petites fleurs duveteuses, souvent jaunes ou blanches, réunies en inflorescences.
+Le mimosa des fleuristes est un acacia.
+▪ Spécialement. En apposition.
+Robinier faux acacia ou, elliptiquement, faux acacia ou, improprement, acacia, variété de robinier à rameaux épineux et à fleurs blanches et odorantes, disposées en grappes.
+Du miel d’acacia.",2026-06-04T04:01:33.268Z
+A0210,A,A CAPPELLA,locution adverbiale,"Étymologie : xixe siècle. Locution italienne, signifiant proprement « à la manière de la chapelle », composée de la préposition a, « à », et de cappella, « chapelle », par référence à la musique exclusivement vocale interprétée par les chapelles et les maîtrises.","Marque de domaine : musique.
+Sans accompagnement instrumental.
+Chanter a cappella.",2026-06-04T04:01:33.499Z
+A0222,A,ACCÉDER,verbe transitif indirect,"Étymologie : xiiie siècle. Emprunté du latin accedere, « s’approcher de, parvenir à ».","1. 
+Avoir accès à un lieu, à un endroit, ou à ce qui s’y trouve.
+On accédait à cette terrasse par quelques marches.
+Trois galeries permettent d’accéder aux gradins.
+Le coffre est encombré, je ne peux pas accéder à la roue de secours.
+Pour accéder à la tumeur, le chirurgien devra pratiquer une profonde incision.
+▪ Par extension.
+Avoir la possibilité de bénéficier d’un bien, d’un service ou de faire usage de quelque chose.
+Accéder à l’eau courante.
+Accéder à internet sur son téléphone.
+Le site de l’Académie française permet d’accéder à toutes les éditions de son Dictionnaire.
+Accéder à des informations fiables.
+
+
+2. 
+Parvenir à une fonction, à un état considérés comme intéressants, avantageux.
+Accéder au trône, à un poste important.
+Accéder aux honneurs.
+Suivre la voie qui permet d’accéder à la sagesse.
+Accéder à la propriété, à la culture.
+
+3. 
+Répondre favorablement à une demande, y acquiescer.
+Accéder à un désir, à une prière.
+
+4. 
+Marque de domaine : droit international.
+Adhérer à une convention, à un pacte, etc. que d’autres parties ont déjà conclus et en accepter les dispositions.
+Un nouvel État a accédé au traité.",2026-06-04T04:01:33.841Z
+A0236,A,ACCÈS,nom masculin,"Étymologie : xiiie siècle. Emprunté du latin accessus, « approche ; accès » et « attaque (en parlant d’une maladie) », lui-même dérivé de accedere, « s’approcher de, parvenir à ».","1. 
+Possibilité de parvenir en un lieu, un endroit, d’y pénétrer, ou d’atteindre ce qui s’y trouve.
+Le portail donne accès au jardin.
+Une rampe d’accès.
+L’accès au chantier est interdit.
+Cette île est d’un accès difficile.
+Une trappe permet l’accès au compteur.
+Par métonymie.
+Voie, passage permettant d’atteindre ce lieu, cet endroit.
+La garde défendait l’accès du palais.
+Les accès de l’immeuble sont surveillés.
+▪ Par analogie.
+Possibilité d’approcher, de rencontrer quelqu’un, de lui parler.
+Avoir libre accès auprès du ministre.
+Le directeur est d’un accès difficile.
+
+▪ Fig.
+Qualité de ce qu’on peut connaître, comprendre.
+« Ulysse », de James Joyce, n’est pas d’accès facile.
+
+
+2. 
+Le fait de pouvoir bénéficier d’un bien, d’un service ou de pouvoir faire usage de quelque chose.
+Avoir accès aux produits de première nécessité.
+Le billet d’entrée du musée donne aussi accès à l’exposition temporaire.
+Un fournisseur d’accès à l’internet.
+Avoir accès aux dossiers confidentiels.
+▪ Spécialement. Marque de domaine : informatique.
+Le fait de pouvoir accéder à des données stockées dans un système informatique ou de pouvoir utiliser des ressources de ce système, au moyen d’une procédure déterminée.
+L’accès à ces contenus est protégé par un code.
+
+
+3. 
+Le fait de parvenir à une fonction, à un état considérés comme intéressants, avantageux.
+L’accès au pouvoir.
+Ce concours donne accès à la haute fonction publique.
+L’accès d’un pays à l’indépendance.
+Avoir accès à l’éducation.
+
+4. 
+Marque de domaine : pathologie.
+Crise morbide qui, dans certaines affections, peut revenir par intermittence.
+Un accès de toux, de fièvre.
+Un accès de paludisme.
+▪ Par extension.
+Mouvement intérieur brusque et passager sous l’empire duquel on agit.
+Un accès de colère, de désespoir, de fou rire.
+
+▪ Loc. adv.
+Par accès, d’une manière irrégulière.
+Il travaille par accès.",2026-06-04T04:01:34.176Z
+A0237,A,ACCESSIBILITÉ,nom féminin,Étymologie : xviie siècle. Dérivé d’accessible.,"1. 
+Qualité de ce qui est accessible.
+L’accessibilité d’un hôpital.
+L’accessibilité d’un poste aux jeunes diplômés.
+▪ Spécialement.
+Caractère d’un lieu, d’un service auquel peuvent accéder, grâce à des dispositifs, des mesures adaptés, les personnes en situation de handicap.
+L’accessibilité d’un bâtiment, des transports publics aux personnes à mobilité réduite.
+Activer la fonction d’accessibilité pour les malvoyants sur un ordinateur.
+Respecter les normes d’accessibilité.
+
+
+2. 
+Possibilité qu’a quelqu’un d’avoir accès à quelque chose.
+L’accessibilité de tous les citoyens aux emplois publics.
+L’accessibilité d’une population aux soins.",2026-06-04T04:01:34.224Z
+A0238,A,ACCESSIBLE,adjectif,"Étymologie : xive siècle. Emprunté du latin chrétien accessibilis, « accessible », lui-même dérivé de accedere, « s’approcher de, parvenir à ».","1. 
+Se dit d’un lieu, d’un endroit qu’on peut atteindre ou de ce qui s’y trouve.
+Leur maison est accessible par un sentier étroit.
+Un sommet difficilement accessible.
+Le robinet d’évacuation est accessible par une trappe.
+▪ Par analogie.
+Se dit d’une personne que l’on peut approcher, rencontrer, avec qui on peut parler.
+En dépit de ses responsabilités, c’est quelqu’un d’accessible.
+Expr. fig.
+Être accessible à quelque chose, y être sensible, ouvert.
+Il est accessible à la pitié.
+Il n’est guère accessible aux idées nouvelles.
+
+▪ Fig.
+Se dit de ce que l’on peut comprendre, connaître.
+C’est une œuvre accessible au plus grand nombre.
+Sa musique n’est guère accessible au profane.
+
+
+2. 
+Se dit d’un bien, d’un service dont on peut bénéficier, de quelque chose dont on peut faire usage.
+Le site de la banque n’est pas accessible pour le moment.
+Les archives de cette période sont désormais accessibles aux chercheurs.
+
+3. 
+Se dit de ce qui permet de parvenir à une fonction, à un état considérés comme intéressants, avantageux.
+Cette filière professionnelle est accessible aux personnes qui n’ont pas le baccalauréat.
+
+4. 
+Spécialement.
+Se dit d’un lieu, d’un service auquel peuvent accéder, grâce à des dispositifs, des mesures adaptés, les personnes en situation de handicap.
+Aménager un bureau de vote pour qu’il soit accessible.
+Ce film est rendu accessible par l’audiodescription.",2026-06-04T04:01:34.302Z
+A0239,A,ACCESSION,nom féminin,"Étymologie : xiie siècle, au sens d’« attaque d’une maladie » ; xviiie siècle, au sens 2 ; xixe siècle, au sens 1. Emprunté du latin accessio, « arrivée ; accès (de fièvre) » et « progrès, accroissement ».","1. 
+Le fait de parvenir à une dignité, à une fonction donnée ou à un nouvel état.
+L’accession à la magistrature suprême.
+L’accession à un poste honorifique, à un grade élevé.
+L’accession d’un pays à l’indépendance.
+L’accession à la propriété.
+▪ Spécialement. Marque de domaine : droit civil.
+Extension du droit de propriété à ce que produit un bien ou à ce qui peut venir s’y incorporer.
+Les fruits de la terre, le croît des animaux, les alluvions appartiennent au propriétaire par droit d’accession.
+
+
+2. 
+Marque de domaine : droit international.
+Le fait d’adhérer à une convention, à un pacte, etc. que d’autres parties ont déjà conclus et d’en accepter les dispositions.
+L’accession d’un État à un traité.",2026-06-04T04:01:34.373Z
+A0244,A,ACCIDENT,nom masculin,"Étymologie : xiie siècle. Emprunté du latin accidens, « évènement fortuit ou funeste », participe présent substantivé de accidere, « tomber vers, sur ; arriver par hasard », lui-même dérivé de la racine indo-européenne *cad, marquant l’action de tomber.","1. 
+Évènement qui arrive de manière imprévue, en bien ou en mal (vieilli).
+Un heureux, un funeste accident.
+La vie humaine est sujette à bien des accidents.
+Les accidents de la fortune.
+Loc. adv.
+Par accident, par hasard.
+Il a fait cette découverte par accident.
+▪ Ne s’emploie plus guère que pour désigner un évènement fâcheux.
+Son échec n’aura été qu’un accident.
+Loc.
+Accident de parcours, fait imprévu qui perturbe passagèrement le cours normal d’une action, d’une opération, d’une carrière (on dit aussi Incident de parcours).
+Sauf accident, à moins d’un contretemps.
+Sauf accident, il sera à l’heure.
+
+
+2. 
+Évènement soudain pouvant entraîner des dommages plus ou moins graves.
+Un accident de la route, de chemin de fer.
+Il est mort dans un accident d’avion.
+Un accident a endeuillé la course.
+Un accident de montagne.
+▪ Spécialement. Marque de domaine : administration. Marque de domaine : droit.
+Accident du travail, qui arrive à un travailleur, à un salarié sur son lieu de travail ou qui est causé par l’exercice de son travail.
+– Marque de domaine : pathologie.
+Accident cardiaque.
+Accident vasculaire cérébral ou, par abréviation, AVC, affection neurologique soudaine et parfois mortelle, causée par l’obstruction ou la rupture d’un vaisseau dans une zone du cerveau.
+L’AVC est souvent appelé « attaque cérébrale ».
+Accidents secondaires, tertiaires de la syphilis, symptômes apparaissant aux stades secondaire, tertiaire de cette maladie.
+
+
+
+3. 
+Marque de domaine : philosophie.
+Ce qui peut apparaître ou disparaître sans entraîner la destruction ou l’altération du sujet, de la substance.
+
+4. 
+Déformation, modification de quelque chose.
+Surtout dans la locution Accident de terrain, inégalité du relief.
+Utiliser les accidents de terrain pour faire de la culture en terrasse.
+▪ Spécialement. Marque de domaine : musique.
+Altération placée devant une note, à l’intérieur d’une mesure, pour en élever ou en abaisser le son.
+L’accident, aussi appelé « altération accidentelle », se distingue de l’altération constitutive, qui est placée en début de portée et affecte toutes les notes identiques d’un morceau.
+Le bécarre est un accident qui ramène au ton naturel une note altérée par un dièse ou un bémol.",2026-06-04T04:01:34.542Z
+A0264,A,ACCOMMODATION,nom féminin,"Étymologie : xive siècle, au sens de « prêt gratuit » ; xixe siècle, au sens 1 ; xxe siècle, au sens 2. Emprunté du latin accommodatio, « appropriation ; esprit d’accommodement ».","1. 
+Marque de domaine : physiologie.
+Ensemble de modifications morphologiques de l’œil lui permettant de mettre au point l’image des objets qui se rapprochent ou qui se trouvent près de lui ; la mise au point elle-même.
+L’accommodation est principalement due à une augmentation de la courbure du cristallin sous l’action du muscle ciliaire.
+
+2. 
+Marque de domaine : biologie.
+Adaptation d’un organisme au milieu où il vit par l’acquisition d’un ou de plusieurs accommodats.",2026-06-04T04:01:34.972Z
+A0266,A,ACCOMMODER,"verbe transitif direct, verbe intransitif et verbe pronominal","Étymologie : xive siècle, au sens de « réparer une injure, un tort », puis de « mettre à disposition ». Emprunté du latin accommodare, « ajuster, adapter ».","1. 
+Arranger, aménager un lieu, une chose.
+Elle a accommodé sa maison avec goût.
+Il a bien accommodé son jardin.
+Par analogie.
+Vous voilà accommodé d’étrange façon.
+Il s’est fait accommoder de belle manière, il s’est fait malmener en paroles et en actes.
+▪ Fig.
+Transformer, modifier quelque chose à sa convenance.
+Il aime accommoder la vérité.
+
+▪ Spécialement. Marque de domaine : cuisine.
+Apprêter un mets en l’assaisonnant, en lui ajoutant un ou plusieurs ingrédients.
+Accommoder du veau avec de la crème et des morilles.
+Un poisson accommodé à la provençale.
+L’art d’accommoder les restes.
+
+
+2. 
+Terminer une contestation par un arrangement amiable ; concilier des intérêts opposés, des points de vue différents.
+Accommoder une querelle, un désaccord.
+Dans cette affaire, vous pourriez accommoder sa position et la vôtre.
+
+3. 
+Adapter une chose à une autre.
+Accommodez vos actes à vos paroles.
+Accommoder son langage aux circonstances.",2026-06-04T04:01:35.122Z
+A0267,A,"ACCOMPAGNATEUR, ACCOMPAGNATRICE",nom,"Étymologie : xviie siècle, au sens 1 ; xxe siècle, au sens 2. Dérivé d’accompagner.","1. 
+Marque de domaine : musique.
+Personne qui, dans l’exécution d’un morceau, soutient sur un instrument la mélodie ou la partie principale.
+La cantatrice fit son entrée avec son accompagnateur.
+
+2. 
+Personne qui accompagne quelqu’un dans un déplacement.
+Il a choisi son accompagnateur pour le congrès.
+▪ Désigne en particulier la personne responsable d’un groupe qu’elle accompagne dans une visite, une excursion, un séjour.
+L’accompagnatrice d’un voyage organisé.
+En apposition.
+Guide accompagnateur.",2026-06-04T04:01:35.182Z
+A0674,A,AFFABULATION,nom féminin,"Étymologie : xviiie siècle, au sens 1 ; xxe siècle, au sens 2. Emprunté du latin tardif affabulatio, « morale d’une fable », lui-même dérivé de fabula, « conversation ; récit fictif, pièce de théâtre ; apologue ».","1. 
+Vieilli.
+Trame, intrigue d’une œuvre d’imagination.
+Voici en deux mots l’affabulation de cette pièce de théâtre, de ce roman.
+
+2. 
+Le fait de présenter comme vraies des histoires inventées ; par métonymie, le propos ainsi tenu (on a dit aussi Fabulation).
+Son témoignage n’est que pure affabulation.",2026-06-04T04:01:43.241Z
+A0675,A,AFFABULER,verbe transitif direct et verbe intransitif,Étymologie : xxe siècle. Tiré d’affabulation.,"1. 
+V. tr. direct. Vieilli.
+Agencer la trame, l’intrigue d’une œuvre d’imagination.
+Affabuler un récit.
+
+2. 
+V. intr.
+Présenter comme vraies des histoires inventées (on a dit aussi Fabuler).",2026-06-04T04:01:43.351Z
+A0802,A,AFRICANISATION,nom féminin,Étymologie : xxe siècle. Dérivé d’africaniser.,Action d’africaniser ou de s’africaniser ; résultat de cette action.,2026-06-04T04:01:45.789Z
+A0803,A,AFRICANISER,verbe transitif direct,"Étymologie : xxe siècle. Dérivé savant du latin africanus, « africain ».","■ 
+Donner un caractère africain à quelque chose.
+Surtout pron.
+Une mode vestimentaire qui s’africanise.
+▪ Par extension. Marque de domaine : histoire.
+S’est employé, dans certains pays d’Afrique, après la décolonisation, lorsque les fonctionnaires coloniaux ont été remplacés par des Africains.
+Africaniser la fonction publique.",2026-06-04T04:01:45.915Z
+A1708,A,ANDROGYNE,nom masculin et adjectif,"Étymologie : xive siècle, comme adjectif, dans l’expression metal androgyn, désignant en alchimie un amalgame ; xvie siècle, comme nom. Emprunté, par l’intermédiaire du latin, du grec androgunos, « hermaphrodite ; homme efféminé », lui-même composé de anêr, andros, « homme », et de gunê, « femme ».","1. 
+N. m.
+Être qui tient à la fois de l’homme et de la femme.
+Platon s’est servi du mythe de l’androgyne pour illustrer sa théorie de l’amour.
+Adjectivement.
+Une divinité androgyne.
+(On dit plus souvent Hermaphrodite.)
+
+2. 
+Adj.
+Se dit d’une personne dont l’apparence, l’allure ne permettent pas de la rattacher à l’un ou à l’autre sexe.
+Un mannequin androgyne.
+Subst.
+Un, une androgyne.
+▪ Par métonymie.
+Une silhouette androgyne.",2026-06-04T04:02:03.908Z
+A1709,A,ANDROGYNIE,nom féminin,Étymologie : xvie siècle. Dérivé d’androgyne.,Caractère d’une personne androgyne.,2026-06-04T04:02:03.970Z
+A1949,A,ANTICOLONIALISME,nom masculin,Étymologie : xxe siècle. Composé d’anti‑ et de colonialisme.,"Attitude, doctrine de ceux qui s’opposent au colonialisme, aux politiques de colonisation.
+L’anticolonialisme d’André Gide s’exprime particulièrement dans ses journaux de voyage au Congo et au Tchad.
+L’anticolonialisme d’Aimé Césaire.",2026-06-04T04:02:08.824Z

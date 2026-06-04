@@ -1,0 +1,16 @@
+{
+  "name": "botacademiefrancaise",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.20.9",
+    "bun-excel": "^1.2.1",
+    "cron": "^4.4.0",
+    "node-html-parser": "^7.1.0"
+  }
+}

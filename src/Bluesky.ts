@@ -1,38 +1,34 @@
 import { AtpAgent, RichText } from "@atproto/api";
-import { parse } from "@bearz/dotenv";
+import console from "node:console";
 
 let agent: AtpAgent;
 async function login() {
-  try {
-    Deno.lstatSync(".env");
-  } catch (err) {
-    if (err instanceof Deno.errors.NotFound) {
-      Deno.writeTextFileSync(".env", "URL=\nIDENTIFIER=\nPASSWORD=\n");
-    } else {
-      throw err;
-    }
+  const file = Bun.file(".env")
+
+  if (!await file.exists()) {
+    Bun.write(".env", "URL=\nIDENTIFIER=\nPASSWORD=\n")
+    console.error("Missing .env file")
+    process.exit(1);
   }
 
-  const env = parse(Deno.readTextFileSync(".env"));
-
-  if (env.URL === "") {
+  if (!process.env.URL || process.env.URL == "") {
     console.error("Please fill the URL in the .env file");
-    Deno.exit(1);
+    process.exit(1);
   }
 
-  if (env.IDENTIFIER === "") {
+  if (!process.env.IDENTIFIER || process.env.IDENTIFIER == "") {
     console.error("Please fill the IDENTIFIER in the .env file");
-    Deno.exit(1);
+    process.exit(1);
   }
 
-  if (env.PASSWORD === "") {
+  if (!process.env.PASSWORD || process.env.PASSWORD == "") {
     console.error("Please fill the PASSWORD in the .env file");
-    Deno.exit(1);
+    process.exit(1);
   }
 
-  const URL = env.URL;
-  const IDENTIFIER = env.IDENTIFIER;
-  const PASSWORD = env.PASSWORD;
+  const URL = process.env.URL;
+  const IDENTIFIER = process.env.IDENTIFIER;
+  const PASSWORD = process.env.PASSWORD;
 
   agent = new AtpAgent({ service: URL });
 
