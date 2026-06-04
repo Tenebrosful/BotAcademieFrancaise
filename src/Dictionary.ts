@@ -73,10 +73,7 @@ class Dictionary {
               await sleep(5000)
             }
           } while (error)
-
-          console.log(letter + id_str)
           // await sleep(1000)
-
         }
       }
     }
