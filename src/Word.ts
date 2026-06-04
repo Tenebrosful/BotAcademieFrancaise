@@ -35,8 +35,8 @@ class Word implements Readonly<Record<string, unknown>> {
   }
 }
 
-function idToIdStr(id: number): string {
-  return id.toString().padStart(4, "0");
+function idToIdStr(id: number, length: number = 4): string {
+  return id.toString().padStart(length, "0");
 }
 
 export { idToIdStr, Word };

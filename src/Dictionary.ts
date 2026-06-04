@@ -1,8 +1,9 @@
 import { parse as parseHTML } from "node-html-parser";
 import { idToIdStr, Word } from "./Word.ts";
-import { getLetterFromAlphabetIndex, sleep } from "./Util.ts";
+import { getLetterFromAlphabetIndex, printTime, sleep } from "./Util.ts";
 import { readCSV } from "bun-excel"
 import console from "node:console";
+import { dm, post } from "./Bluesky.ts";
 
 const BASE_URL = "https://www.dictionnaire-academie.fr/article/";
 const PREFIX_10_EDITION = "B0";
@@ -17,47 +18,70 @@ class Dictionary {
   async fillDictionary() {
     const newWords: Word[] = []
 
+    let breakloop = false;
+
     for (let letterIndex = 1; letterIndex <= 27; letterIndex++) {
+      if (breakloop) break;
       const letter = getLetterFromAlphabetIndex(letterIndex) as string;
-      for (let id = 0; id <= 9999; id++) {
-        const id_str = idToIdStr(id);
-        if (this.words.keys().find(k => k == letter + id_str)) continue;
 
-        let error = false;
+      for (let length = 4; length <= 5; length++) {
+        if (breakloop) break;
+        console.log(`${printTime()} Recherche des mots en ${length == 4 ? letter + "XXXX" : letter + "XXXXX"}`)
 
-        do {
-          try {
-            const response = await fetchWord(letter, id);
+        for (let id = 0; id <= 9999; id++) {
+          if (breakloop) break;
 
-            switch (response.status) {
-              case 200:
-                {
-                  const text = await response.text();
-                  const word = Word.FromHTML(parseHTML(text), letter + id_str);
-                  word.added_at = new Date();
-                  this.words.set(letter + id_str, word);
-                  newWords.push(word);
-                }
-                break;
-              case 404:
-                console.error(`Mot introuvable pour l'id ${letter + id_str}`);
-                break;
-              default:
-                console.error("Error", response.status);
-                break;
+          const id_str = idToIdStr(id, length);
+
+          if (this.words.keys().some(k => k == letter + id_str)) continue;
+
+          let error = false;
+
+          do {
+            try {
+              const response = await fetchWord(letter, id, length);
+
+              switch (response.status) {
+                case 200:
+                  {
+                    const text = await response.text();
+                    const word = Word.FromHTML(parseHTML(text), letter + id_str);
+                    word.added_at = new Date();
+                    this.words.set(letter + id_str, word);
+                    newWords.push(word);
+                    console.log(`${printTime()} Nouveau mot ${word.id} ! ${word.word} !${word.id.length == 6 ? " ✨ EXCLUSIF 10ème ✨ !" : ""}`)
+                  }
+                  break;
+                case 403:
+                  dm(`Aled @tenebrosful.fr ! Je suis ban de l'académie française (${letter + id_str}) ! [Erreur 403]`);
+                  console.error(response)
+                  breakloop = true;
+                  break;
+                case 404:
+                  // console.error(`Mot introuvable pour l'id ${letter + id_str}`);
+                  break;
+                default:
+                  console.error("Error", response.status);
+                  break;
+              }
+
+              error = false;
+            } catch (e: unknown) {
+              error = true;
+              console.error(e);
+              console.log("Sleeping 5s")
+              await sleep(5000)
             }
+          } while (error)
 
-            error = false;
-          } catch (e: unknown) {
-            error = true;
-            console.error(e);
-            console.log("Sleeping 5s")
-            sleep(5000)
-          }
-        } while (error)
+          console.log(letter + id_str)
+          // await sleep(1000)
 
+        }
       }
     }
+
+    if (breakloop) console.error(`${printTime()} Loop has been broken ! ${newWords}`)
 
     return newWords;
   }
@@ -132,8 +156,8 @@ function getWordUrl(id: string): string {
   return `${BASE_URL}${PREFIX_10_EDITION}${id}`;
 }
 
-function fetchWord(letter: string, id: number): Promise<Response> {
-  return fetch(getWordUrl(letter + idToIdStr(id)));
+function fetchWord(letter: string, id: number, length: number | undefined): Promise<Response> {
+  return fetch(getWordUrl(letter + idToIdStr(id, length)), { headers: { "User-Agent": "COME ON" } });
 }
 
 export { Dictionary, fetchWord, getWordUrl };
