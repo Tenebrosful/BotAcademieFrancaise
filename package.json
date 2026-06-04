@@ -1,6 +1,9 @@
 {
   "name": "botacademiefrancaise",
   "private": true,
+  "scripts": {
+    "start": "bun run ~/BotAcademieFrancaise/main.ts &>> log.txt &"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
