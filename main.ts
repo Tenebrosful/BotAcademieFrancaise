@@ -46,7 +46,7 @@ process.on("SIGTERM", () => printOnExit("SIGTERM"));
 process.on("SIGBREAK", () => printOnExit("SIGBREAK"));
 process.on("uncaughtException", (error, origin) => printOnExit(origin, error));
 
-task();
+// task();
 
 // Deno.addSignalListener("SIGTERM", () => {
 //   console.log(`${printTime()} Arrêt du programme...`);
