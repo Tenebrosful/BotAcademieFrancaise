@@ -20,7 +20,7 @@ const task = async () => {
 
   for (const word of newWords) {
     console.log(`${printTime()} New Word : ${word.word} (${word.type})`);
-    post(`📖✒️ Nouveau mot de la 10ème édition !\n\n${word.word} (${word.type})\n\n${getWordUrl(word.id)}`);
+    post(`📖✒️ Nouveau mot de la 10ème édition !${word.id[0] == "_" ? " (Mot intercalaire !)" : ""}\n\n${word.word} (${word.type})\n\n${getWordUrl(word.id)}`);
     await sleep(1000);
     // console.log(`📖✒️ Nouveau mot intercalaire !\n\n${word.word} (${word.type})\n\n${getWordUrl(word.id)}`);
   };
