@@ -6,7 +6,7 @@ function printTime() {
 }
 
 function getLetterFromAlphabetIndex(position: number) {
-  return "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[position - 1]
+  return "ABCDEFGHIJKLMNOPQRSTUVWXYZ_"[position - 1]
 }
 
 // Source - https://stackoverflow.com/a/39914235

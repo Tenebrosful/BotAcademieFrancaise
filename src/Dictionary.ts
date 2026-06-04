@@ -17,7 +17,7 @@ class Dictionary {
   async fillDictionary() {
     const newWords: Word[] = []
 
-    for (let letterIndex = 1; letterIndex <= 26; letterIndex++) {
+    for (let letterIndex = 1; letterIndex <= 27; letterIndex++) {
       const letter = getLetterFromAlphabetIndex(letterIndex) as string;
       for (let id = 0; id <= 9999; id++) {
         const id_str = idToIdStr(id);
