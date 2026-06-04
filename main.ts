@@ -30,7 +30,7 @@ const task = async () => {
   console.log(`${printTime()} End routine, next date : ${getNextDateJob()}`);
 }
 
-const cron = new CronJob("0 12 * * *", task, null, true, "Europe/Paris");
+const cron = new CronJob("0 0 * * *", task, null, true, "Europe/Paris");
 
 const nextDates = cron.nextDates(3);
 console.log(`${printTime()} Next dates: ${nextDates[0]?.toString()}, ${nextDates[1]?.toString()}, ${nextDates[2]?.toString()}`);
